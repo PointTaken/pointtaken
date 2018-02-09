@@ -210,8 +210,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            <strong>Carin</strong> er en erfaren informasjonsrådgiver, systemforvalter og prosjektleder som brenner for møtet mellom teknologi og mennesket. Hun elsker å skape utvikling og resultater gjennom nye tiltak, og bidra til å tilpasse tekniske systemer til bruker- og virksomhetsbehov og skape effektive og brukervennlige systemer. 
-            Hun er en hyggelig jente med bred erfaring som systemeier på kundesiden. Hun trives aller best på tur med hunden «Brownie». 
+            <strong>Carin</strong> kommer med bred erfaring fra kundesiden. Hvor hun har jobbet med informasjonsforvaltning og samhandling i blant annet SharePoint og Office 365. Hun har bakgrunn som prosjektleder og systemforvalter, og brenner for møtet mellom teknologi og mennesket. Gjennom flere implementeringsprosjekter vet hun hvor viktig det er å tilpasse teknologiske løsninger til bruker- og virksomhetsbehov, slik at man skaper effektive og brukervennlige løsninger som gir verdi. Hun er en hyggelig jente som trives aller best ute på tur med hunden «Brownie». 
             </div>
         </div>
     </div>

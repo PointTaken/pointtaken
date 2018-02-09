@@ -50,7 +50,7 @@ draft: false
     </div>
 </div>
 
-<div class="container" id="referanse">
+<!-- <div class="container" id="referanse">
     <div class="row">
         <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
             <blockquote class="blockquote text-center">
@@ -59,7 +59,7 @@ draft: false
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 
 <div id="om" class="container">

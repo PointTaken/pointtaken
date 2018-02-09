@@ -1,5 +1,5 @@
 ---
-title: "Point Taken Til Canada"
+title: "Point Taken til Canada"
 date: 2017-06-29T22:48:54+01:00
 draft: false
 banner: "img/ptcanada.jpg"

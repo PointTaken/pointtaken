@@ -1,5 +1,5 @@
 ---
-title: "Point Taken Vokser Og Skal Ansette 10 Nye Spesialister"
+title: "Point Taken vokser og skal ansette 10 nye spesialister"
 date: 2017-06-22T22:29:39+01:00
 draft: false
 author: "Rune Tangen"

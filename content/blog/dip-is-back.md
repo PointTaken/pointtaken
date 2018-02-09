@@ -1,5 +1,5 @@
 ---
-title: "Dip Is Back"
+title: "Dip is Back"
 date: 2017-10-20T20:43:05+01:00
 draft: false
 author: "Arne Nøstvik"

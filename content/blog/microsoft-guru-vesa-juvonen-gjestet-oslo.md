@@ -7,7 +7,6 @@ categories: ["Sosialt"]
 tags: [""]
 banner: "img/meetup.jpg"
 ---
-# Microsoft-guru Vesa Juvonen gjestet Oslo.
 
 7 februar var vi i Point Taken verter for det kvartalsvise møtet i Norwegian Office 365 Community. Norwegian Office 365 Community er et uavhengig fagmiljø for utviklere, IT pro, forretnings- og sluttbrukere der målet er å dele kunnskap på tvers av produktene.
 <br>

@@ -8,7 +8,6 @@ tags: [""]
 banner: "img/Luc-GDPR-2.jpg"
 ---
 
-# Jumpstart GDPR compliance using Office 365 and Point Taken 
  
 On January the 24, Point Taken held a breakfast seminar in Kristiansand, focusing on the use of Office 365 integrated Security & Compliance center.  
 This morning we showed the participants how Office 365 allows them to easily find, classify, retain or delete personal (custom) sensitive data to comply with the upcoming GDPR regulations, which will come into force on May 25 2018. 

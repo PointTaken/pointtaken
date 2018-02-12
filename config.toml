@@ -1,4 +1,4 @@
-baseurl = "https://pointtakenweb.azurewebsites.net/"
+baseurl = "www.pointtaken.no/"
 title = "Point Taken"
 theme = "point-taken-theme"
 themesDir = "themes"

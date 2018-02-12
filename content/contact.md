@@ -63,8 +63,8 @@ id = "contact"
     </div>
 </div>
 
-<div class="col-md-12 p-4 mt-4">
-    <div class="heading text-center">
+<div class="col-md-12 col-lg-8 p-4 mt-4">
+    <div class="heading">
         <h3>Kontaktskjema</h3>
     </div>
 </div>

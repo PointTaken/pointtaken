@@ -14,7 +14,7 @@ draft: false
             <p>Vår erfaring er at det er opplæring av brukerne som er ett av de viktigste kriteriene for suksess ved innføring av nye systemer.I tillegg til klasseromskurs kan vi bistå med opprettelse av online læring i standard løsning eller kundespesifikke produkter.</p>
             <p>Flere av våre konsulenter er sertifiserte kursholdere fra Microsoft.</p>
         </div>    
-        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/teach.jpeg" alt="Kurs" /></div>
+        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/startup-photos.jpg" alt="Kurs" /></div>
     </div>
 </div>
 
@@ -43,6 +43,7 @@ draft: false
     <div class="row justify-content-center">
     <div class=" col-12 heading text-center">
         <h2>Eksempler på kurs vi holder</h2>
+        <p class="col-8 mx-auto">En liten tekst som sier noe om at vi holder mange forskjellige typer kurs, og kan skreddersy kurs til å handle om hva det enn måtte være.
     </div>
     <div class="col-lg-4 col-sm-6 bg-white p-4 kurs-card">
         <div class="heading"><h4>Bli kjent med Office 365</h4></div>
@@ -124,14 +125,14 @@ draft: false
                         <h2>Trenger dere tilpasset et kurs?</h2>
                     </div>
                     <p class="lead">Ta kontakt med oss for å en samtale om hvordan vi best kan hjelpe dere å oppnå deres mål.</p>
-                    <div class="card personkort text-center mt-4">
-                        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/knut.jpg" alt="Knut Skogvold">
+                    <div class="card personkort p-5">
+                        <img class="card-img-top img-profil" src="../img/people/knut.jpg" alt="Knut Skogvold">
                         <div class="card-body">
                             <h4 class="card-title">Knut Skogvold</h4>
                             <p class="card-subtitle mb-2">Salgssjef</p>
-                            <p class="card-text">Tlf: 90 09 50 88</p>
+                            <p class="card-text">Tlf: 987 65 432</p>
                         </div>
-                    </div>
+                    </div>  
                 </div>                          
                 </div>
             </div>

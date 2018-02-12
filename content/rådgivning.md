@@ -11,7 +11,7 @@ draft: false
             </div>
             <p>Vi er sertifiserte spesialister på SharePoint, Office 365, Dynamics 365 (CRM) og Nintex. Alle har lang erfaring som konsulenter, rådgivere eller utviklere innen vår bransje. Vi har laget mange komplette løsninger for våre kunder og har erfaring med hele prosessen fra idé til ferdig løsning.</p>
         </div>    
-        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/raad.jpeg" alt="Rådgivning" /></div>
+        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/startup-photos.jpg" alt="Rådgivning" /></div>
     </div>
 </div>
 
@@ -27,7 +27,7 @@ draft: false
     <div class="row">
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/saks.jpeg" alt="Rådgivning" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/startup-photos.jpg" alt="Rådgivning" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
                         <h2>Tilpasset din bedrift  </h2>
@@ -44,13 +44,13 @@ draft: false
                     </div>
                     <p>Som rådgivere er vi opptatt av å finne den beste løsningen for våre kunder, enten løsningen er på egne servere, eller i en skyløsning. Vi kan også hjelpe organisasjonen å ta i bruk ny teknologi på en rask og effektiv måte. Vi bistår til å utvikle løsninger som gjør at du kan samarbeide uanstrengt og sikkert, i og utenfor organisasjonen, på tvers av digitale flater.</p>
                 </div>            
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/group/9.jpg" alt="Rådgivning" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/startup-photos.jpg" alt="Rådgivning" /></div>
             </div>
         </div>       
     </div>
 </div>
 
-<!-- <div class="container" id="referanse">
+<div class="container" id="referanse">
     <div class="row">
         <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
             <blockquote class="blockquote text-center">
@@ -59,7 +59,7 @@ draft: false
             </div>
         </div>
     </div>
-</div> -->
+</div>
 
 
 <div id="om" class="container">
@@ -131,7 +131,7 @@ draft: false
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-9" style="padding:2rem">
+                <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
                         <h2>Kjenner du deg igjen? Ta kontakt!</h2>
                     </div>
@@ -143,17 +143,84 @@ draft: false
                     </ul>
                     <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om intranett</a> -->
                 </div>            
-                <div class="col-sm-6 col-md-4 col-lg-3 p-5">
-                    <div class="card personkort text-center">
-                        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/knut.jpg" alt="Knut Skogvold">
+                <div class="col-md-12 col-lg-6 p-5">
+                    <div class="card personkort p-5">
+                        <img class="card-img-top img-profil" src="../img/people/knut.jpg" alt="Knut Skogvold">
                         <div class="card-body">
                             <h4 class="card-title">Knut Skogvold</h4>
                             <p class="card-subtitle mb-2">Salgssjef</p>
-                            <p class="card-text">Tlf: 90 09 50 88</p>
+                            <p class="card-text">Tlf: 987 65 432</p>
                         </div>
-                    </div>
+                    </div>                
                 </div>
             </div>
         </div>             
     </div>
 </div>
+
+<!-- <div class="container">
+    <div class="row">
+        <div class="col-sm-12 col-md-8 mx-auto">
+            <div class="heading text-center">
+                <h2>Hvor er du nå?</h2>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12 col-md-6 col-lg-3">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Jeg ønsker å lære mer om SharePoint</h4>
+                    <p class="card-text">Jeg er interessert i SharePoint, og ønsker å lære mer om det grunnleggende.</p>
+                    <a href="#" class="btn btn-primary">Klikk her</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-3">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Jeg ønsker å implementere SharePoint</h4>
+                    <p class="card-text">Jeg har allerede SharePoint, og ønsker hjelp til å implementere løsningen.</p>
+                    <a href="#" class="btn btn-primary">Klikk her</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-3">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Jeg trenger hjelp med SharePoint</h4>
+                    <p class="card-text">Jeg har allerede SharePoint, og ønsker hjelp med utfordringer i løsningen.</p>
+                    <a href="#" class="btn btn-primary">Klikk her</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-3">
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Jeg trenger kurs i SharePoint</h4>
+                    <p class="card-text">Jeg trenger å lære mer om hvordan bruker SharePoint på best mulig måte.</p>
+                    <a href="#" class="btn btn-primary">Klikk her</a>
+                </div>
+            </div>
+        </div>               
+    </div>
+</div> -->
+
+<!-- <div class="container-fluid">
+    <div class="row background-yellow" style="padding-top:3rem;padding-bottom:3rem">
+        <div class="col-12">
+            <img class="img-fluid" src="../img/office_meeting.jpg"></img>        
+        </div>
+        <div class="col-12">
+            <h3>Gode råd trenger ikke være dyre</h3>
+        </div>
+        <div class="col-12">
+            <p class="lead">Vi gir råd, konfigurerer og evt. tilpasser din SharePoint-løsning til ditt behov i henhold til retningslinjer fra Microsoft. Med Office 365 som et alternativ bør man som et minimum utvikle løsninger som er kompatible med fremtidens tjenester. Spar penger ved å rådføre deg med en av våre eksperter. Sammen med kunden, finner vi den beste løsningen som er i tråd med deres IT strategi.</p>
+        </div>
+    <a class="btn btn-primary" href="#" role="button">Fortell meg mer!</a>    
+        </div>     
+    </div>
+</div> -->

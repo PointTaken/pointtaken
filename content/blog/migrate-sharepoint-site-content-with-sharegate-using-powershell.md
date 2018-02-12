@@ -1,5 +1,5 @@
 ---
-title: "Migrate Sharepoint site content with Sharegate using Powershell"
+title: "Migrate Sharepoint Site Content With Sharegate Using Powershell"
 date: 2017-06-06T21:18:08+01:00
 draft: false
 banner: "img/code.png"

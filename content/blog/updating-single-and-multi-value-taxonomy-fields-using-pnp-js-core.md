@@ -1,5 +1,5 @@
 ---
-title: "Updating single and multi value taxonomy fields using PnP Js Core"
+title: "Updating Single and Multi Value Taxonomy Fields Using Pnp Js Core"
 date: 2017-05-16T20:52:50+01:00
 draft: false
 author: "Øyvind Aas-Mehren"

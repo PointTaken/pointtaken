@@ -207,8 +207,8 @@ draft: false
 </div>
 <!-- SOSIALE BILDER -->
 <div class="col-4 mt-5">
-<img class="img-fluid" src="/img/luz.jpg" alt="Luzern" />
-<p class="mb-4 text-center">Luzern 2017</p>
+<img class="img-fluid" src="/img/luz.jpg" alt="Luzerne" />
+<p class="mb-4 text-center">Luzerne 2017</p>
 <img class="img-fluid" src="/img/sykkel.jpg" alt="Sykkeltur" />
 <p class="mb-4 text-center">Island 2016</p>
 <img class="img-fluid" src="/img/ol1.jpg" alt="Rallarvegen" />

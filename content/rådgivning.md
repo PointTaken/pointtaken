@@ -50,7 +50,7 @@ draft: false
     </div>
 </div>
 
-<div class="container" id="referanse">
+<!-- <div class="container" id="referanse">
     <div class="row">
         <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
             <blockquote class="blockquote text-center">
@@ -59,7 +59,7 @@ draft: false
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 
 <div id="om" class="container">
@@ -125,7 +125,7 @@ draft: false
                     <div class="heading">
                         <h2>Konsulenter med lang erfaring</h2>
                     </div>
-                    <p>Thorbjørn Værp har mer enn 20 års arbeidserfaring fra IT bransjen. De sist 10 årene har han jobbet med fult fokus på Office 365, MS Teams og SharePoint. Han er utnevnt til MVP (Most Valuable Professional) på Office Server and Services av Microsoft.</p>
+                    <p>Torbjørn Værp har mer enn 20 års erfaring fra IT bransjen. De siste 10 årene har han jobbet med fullt fokus på Office 365, MS Teams og SharePoint. Han er utnevnt til MVP (Most Valubale Professional) på Office Server and Services av Microsoft.</p>
                 </div>
             </div>
         </div>
@@ -136,12 +136,14 @@ draft: false
                         <h2>Kjenner du deg igjen? Ta kontakt!</h2>
                     </div>
                     <ul>
-                    <li>Jeg er interessert i SharePoint, og ønsker å lære mer om det grunnleggende.</li>
-                    <li>Jeg har allerede SharePoint, og ønsker hjelp til å implementere løsningen.</li>
-                    <li>Jeg har allerede SharePoint, og ønsker hjelp med utfordringer i løsningen.</li>
-                    <li>Jeg trenger å lære mer om hvordan min bedrift kan bruke SharePoint på best mulig måte.</li>
+                    <li>Jeg er interessert i rådgivning og utvikling, og ønsker å lære mer om det grunnleggende.</li>
+                    <li>Jeg har allerede rådgivning og utvikling, og ønsker hjelp til å implementere løsningen.</li>
+                    <li>Jeg har allerede rådgivning og utvikling, og ønsker hjelp med utfordringer i løsningen.</li>
+                    <li>Jeg trenger å lære mer om hvordan min bedrift kan bruke rådgivning og utvikling på best mulig måte.</li>
                     </ul>
-                    <!-- <a class="btn btn-primary btn-out" href="/kurs" role="button">Les mer om intranett</a> -->
+                    <div class="col text-center">
+                        <a class="btn btn-primary btn-full" href="/contact/" role="button">Ta kontakt</a>
+                    </div>                    
                 </div>            
                 <div class="col-md-12 col-lg-6 p-5">
                     <div class="card personkort p-5">

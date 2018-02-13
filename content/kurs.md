@@ -30,7 +30,7 @@ draft: false
     <div class="row">
         <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
             <blockquote class="blockquote text-center">
-            <p class="mb-0">Styrken og verdien i organisasjonen din er bygget på kunnskapen til dine ansatte.</p>
+            <p class="mb-0">Styrken og verdien i din organisasjon er bygget på kunnskapen til dine ansatte.</p>
             </blockquote>
             </div>
         </div>

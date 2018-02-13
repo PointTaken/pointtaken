@@ -118,7 +118,7 @@ draft: false
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-8" style="padding:2rem">
+                <div class="col-md-12 col-lg-9" style="padding:2rem">
                     <div class="heading">
                         <h2>Kjenner du deg igjen? Ta kontakt!</h2>
                     </div>
@@ -131,11 +131,13 @@ draft: false
                     <br>
                     <li>Jeg trenger å lære mer om hvordan min bedrift kan bruke Azure på best mulig måte.</li>
                     </ul>
-                    <a class="btn btn-primary btn-full" href="/contact/" role="button">Ta kontakt</a>
+                    <div class="col">
+                        <a class="btn btn-primary btn-full" href="/contact/" role="button">Ta kontakt</a>
+                    </div>
                 </div>            
                 <div class="col-sm-6 col-md-4 col-lg-3 p-5">
                     <div class="card personkort text-center">
-                        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/knut.jpg" alt="Knut Skogvold">
+                        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/knut-round.jpg" alt="Knut Skogvold">
                         <div class="card-body">
                             <h4 class="card-title">Knut Skogvold</h4>
                             <p class="card-subtitle mb-2">Salgssjef</p>

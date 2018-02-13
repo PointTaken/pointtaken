@@ -6,10 +6,20 @@
     <description>Recent content on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Feb 2018 08:58:21 +0100</lastBuildDate>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 13 Feb 2018 20:56:22 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Get TDC</title>
+      <link>https://www.pointtaken.no/get/</link>
+      <pubDate>Tue, 13 Feb 2018 20:56:22 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/get/</guid>
+      <description>Get TDC er en av de store aktørene på det nordiske markedet som leverer kommunikasjonsløsninger og drifter infrastruktur for store private og offentlige virksomheter. De har stort fokus på effektive og fleksible løsninger, ikke bare til kunder, men også i forhold til arbeidshverdagen til sine ansatte. Point Taken er med på det digitale løftet som gjøres, med å bistå teknisk med skytjenester, digital samhandling og rådgivning knyttet til Office 365 og Azure med tilhørende tjenester.</description>
+    </item>
     
     <item>
       <title>Microsoft-guru Vesa Juvonen gjestet Oslo</title>
@@ -78,7 +88,7 @@ Utfordringen:  BAHR er en høykompetansebedrift med bred og dyp erfaring fra et 
       <pubDate>Tue, 02 Jan 2018 13:59:08 +0100</pubDate>
       
       <guid>https://www.pointtaken.no/teams/</guid>
-      <description>Teams  Effektiv og fleksibel samhandling på tvers av bedriften Med SharePoint kan du dele og administrere innhold, kunnskap og programmer for å styrke teamarbeid. Hvor som helst og når som helst, uten at det går på bekostning av sikkerhet. Finn informasjon raskt, og samarbeid på en enkel måte på tvers av organisasjonen.
+      <description>Teams  Effektiv og fleksibel samhandling på tvers av bedriften Med Teams kan du dele og administrere innhold, kunnskap og programmer for å styrke teamarbeid. Hvor som helst og når som helst, uten at det går på bekostning av sikkerhet. Finn informasjon raskt, og samarbeid på en enkel måte på tvers av organisasjonen.
     Om Teams Hvorfor oss? -- Kontakt oss    Samtaler for grupper  Teams gir samtaler med historikk som sørger for at alle er engasjert og informert.</description>
     </item>
     
@@ -160,7 +170,8 @@ Datasikkerhet er en viktig del av GDPR. Vi kan hjelpe deg med å tilfredstille k
       <pubDate>Mon, 11 Dec 2017 13:40:21 +0100</pubDate>
       
       <guid>https://www.pointtaken.no/nintex/</guid>
-      <description>Nintex  Nintex er enkel, dra og slipp arbeidsflyt som knytter alle personer, avdelinger og systemer sammen, enten de er innenfor eller utenfor din bedrift.     Om Nintex Hvorfor oss? -- Kontakt oss    Arbeidsflyt som ganske enkelt fungerer  Uavhengig av hvilken plattform du benytter, eller hvor du lagrer ditt innhold, automatiserer Nintex Workflow prosessene dine, slik at alle involverte kan koble seg på, samhandle og fortsette arbeidet.</description>
+      <description>Nintex  Nintex er en enkel, dra og slipp arbeidsflyt som knytter aller personer, avdelinger og systemer sammen, enten de er innenfor eller utenfor din bedrift.
+    Om Nintex Hvorfor oss? -- Kontakt oss    Arbeidsflyt som ganske enkelt fungerer  Uavhengig av hvilken plattform du benytter, eller hvor du lagrer ditt innhold, automatiserer Nintex Workflow prosessene dine, slik at alle involverte kan koble seg på, samhandle og fortsette arbeidet.</description>
     </item>
     
     <item>
@@ -189,7 +200,7 @@ Datasikkerhet er en viktig del av GDPR. Vi kan hjelpe deg med å tilfredstille k
       <pubDate>Mon, 11 Dec 2017 13:40:03 +0100</pubDate>
       
       <guid>https://www.pointtaken.no/office365/</guid>
-      <description>Office 365  Komplett kontorløsning Office 365 er en komplett kontor-løsning for din virksomhet. Her finner du de velkjente Office-programmene, Outlook, Skype, fildeling og samhandling. Office 365 finnes i flere varianter avhengig av behov. Vi kan hjelpe deg med behovsavklaring og velge riktig løsning for din virksomhet.
+      <description>Office 365  Komplett kontorløsning Office 365 er en komplett kontorløsning for din virksomhet. Her finner du de velkjente Office-programmene, Outlook, Skype, fildeling og samhandling. Office 365 finnes i flere varianter avhengig av behov. Vi kan hjelpe deg med behovsavklaring og velge riktig løsning for din virksomhet.
     Om Office 365 Hvorfor oss? -- Kontakt oss    Alltid tilgjengelig og oppdatert  Løsningene som inngår i Office 365 er alltid tilgjengelig uavhengig av enhet og hvor du befinner deg.</description>
     </item>
     
@@ -200,7 +211,7 @@ Datasikkerhet er en viktig del av GDPR. Vi kan hjelpe deg med å tilfredstille k
       
       <guid>https://www.pointtaken.no/sharepoint/</guid>
       <description>SharePoint  Med SharePoint kan du dele og administrere innhold, kunnskap og programmer for å styrke teamarbeid. Det kan gjøres fra hvor som helst og når som helst uten at det går på bekostning av sikkerhet. Finn informasjon raskt, og samarbeid på en enkel måte på tvers av organisasjonen.
-    Om SharePoint Hvorfor oss? -- Kontakt oss    Intranett  SharePoint styrker deling og samarbeid i en organisajon.</description>
+    Om SharePoint Hvorfor oss? -- Kontakt oss    Intranett  SharePoint styrker deling og samarbeid blant dine ansatte.</description>
     </item>
     
     <item>

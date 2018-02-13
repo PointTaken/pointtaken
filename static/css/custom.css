@@ -562,3 +562,6 @@ footer a:hover {
   border: .5rem solid #eaecef;
   font-size: .9em;
 }
+.no-hover {
+  cursor: auto;
+}

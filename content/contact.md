@@ -7,7 +7,7 @@ id = "contact"
 <div class="container">
         <div class="row">
             <div class="col-md-12 col-lg-8 mt-4">
-                <div class="heading">
+                <div class="heading mt-4">
                     <h1>Kontaktinformasjon</h1>
                 </div>
                 <h3>Har du sett over sidene våre og sitter igjen med noen spørsmål?</h3>
@@ -20,8 +20,8 @@ id = "contact"
 </br>
 <div class="row">
 <div class="col-sm-6 col-md-4 col-lg-3">
-    <div class="card personkort text-center">
-        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/rune.jpg" alt="Rune Tangen">
+    <div class="card personkort text-center no-hover">
+        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/rune-round.jpg" alt="Rune Tangen">
         <div class="card-body">
             <h4 class="card-title">Rune Tangen</h4>
             <p class="card-subtitle mb-2">Daglig leder</p>
@@ -31,8 +31,8 @@ id = "contact"
 </div>
 
 <div class="col-sm-6 col-md-4 col-lg-3">
-    <div class="card personkort text-center">
-        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/runar.jpg" alt="Runar Lund">
+    <div class="card personkort text-center no-hover">
+        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/runar-round.jpg" alt="Runar Lund">
         <div class="card-body">
             <h4 class="card-title">Runar Lund</h4>
             <p class="card-subtitle mb-2">Konsulentsjef</p>
@@ -42,8 +42,8 @@ id = "contact"
 </div>
 
 <div class="col-sm-6 col-md-4 col-lg-3">
-    <div class="card personkort text-center">
-        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/thorbjorn.jpg" alt="Thorbjørn Værp">
+    <div class="card personkort text-center no-hover">
+        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/thorbjorn-round.jpg" alt="Thorbjørn Værp">
         <div class="card-body">
             <h4 class="card-title">Thorbjørn Værp</h4>
             <p class="card-subtitle mb-2">Regionleder Kristiansand</p>
@@ -53,8 +53,8 @@ id = "contact"
 </div>
 
 <div class="col-sm-6 col-md-4 col-lg-3">
-    <div class="card personkort text-center">
-        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/knut.jpg" alt="Knut Skogvold">
+    <div class="card personkort text-center no-hover">
+        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/knut-round.jpg" alt="Knut Skogvold">
         <div class="card-body">
             <h4 class="card-title">Knut Skogvold</h4>
             <p class="card-subtitle mb-2">Salgssjef</p>

@@ -185,7 +185,7 @@ draft: false
 <div class="row">
     <div class="col-sm-12 col-md-4">
     <div class="card personkort text-center">
-        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/rune.jpg" alt="Rune Tangen">
+        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/rune-round.jpg" alt="Rune Tangen">
         <div class="card-body">
             <h4 class="card-title">Rune Tangen</h4>
             <p class="card-subtitle mb-2">Daglig leder</p>
@@ -195,7 +195,7 @@ draft: false
     </div>
     <div class="col-sm-12 col-md-4">
     <div class="card personkort text-center">
-        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/thorbjorn.jpg" alt="Thorbjørn Værp">
+        <img class="card-img-top img-profil img-round mx-auto" src="../img/people/thorbjorn-round.jpg" alt="Thorbjørn Værp">
         <div class="card-body">
             <h4 class="card-title">Thorbjørn Værp</h4>
             <p class="card-subtitle mb-2">Regionleder Kristiansand</p>

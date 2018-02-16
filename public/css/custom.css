@@ -36,6 +36,7 @@ body {
   color: #F3732B;
   padding-right: 1rem;
   font-weight: 400;
+  border-bottom: 4px solid transparent;
 }
 .navbar-light .navbar-nav .nav-link.active {
   border-bottom: 4px solid #f3732b; 
@@ -127,6 +128,7 @@ body {
 
 .customers .item img {
   max-height: 85px;
+  margin-bottom: 1rem;
 }
 
 .navbar-default {

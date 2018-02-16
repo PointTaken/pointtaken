@@ -12,7 +12,7 @@
             <!-- *** BLOG HOMEPAGE *** -->
             {{ $posts := .Paginate (where .Data.Pages "Type" "blog") }}
             {{ range first 2 $posts.Pages }}
-            <div class="row recent-blogs">
+            <div class="row recent-blogs mt-4">
                 <div class="col-sm-12 col-md-8">
                     <div class="content">
                         <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>

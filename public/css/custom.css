@@ -75,18 +75,19 @@ body {
 }
 
 #heading-breadcrumbs {
-  padding: 0;
-  background: #da4d4d;
+  margin-top: 2rem;
 }
-  #heading-breadcrumbs .container {
-    display: none;
+  #heading-breadcrumbs h1 {
+    display: inline-block;
+    border-bottom: solid 4px #f3732c;
+    line-height: 1.1;
+    margin-bottom: .5rem;
+    padding-bottom: 10px;
+    vertical-align: middle;
   }
-
 .box-simple .icon {
-  /* background-image: url(../img/pattern1.svg); */
   font-size: 2em;
   background-color: #f3732b;
-  /* border-radius: 0; */
   color: #fff;
   margin-bottom: 1rem;
 }

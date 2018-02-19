@@ -6,6 +6,7 @@
     <description>Recent content on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
     <lastBuildDate>Tue, 13 Feb 2018 20:56:22 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/index.xml" rel="self" type="application/rss+xml" />
@@ -301,13 +302,13 @@ A little background: one of our clients wanted an application that would copy pr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.pointtaken.no/contact/</guid>
-      <description>Kontaktinformasjon  Har du sett over sidene våre og sitter igjen med noen spørsmål? Vi kan hjelpe deg! Send oss en beskjed i kontaktskjemaet vårt, eller ta en prat på chatten, så skal vi kunne svare på det aller meste.
+      <description>Kontaktinformasjon  Har du sett over sidene våre og sitter igjen med noen spørsmål? Vi kan hjelpe deg! Send oss en beskjed i kontaktskjemaet vårt, eller ta en prat på chatten, eller ring oss så skal vi kunne svare på det aller meste.
+
+Point Taken - Sentralbord: 22 12 0365
      Rune Tangen Daglig leder
 Tlf: 92 60 00 59
   
-Runar Lund Konsulentsjef
-Tlf: 93 44 12 98
-   Thorbjørn Værp Regionleder Kristiansand</description>
+Runar Lund Konsulentsjef</description>
     </item>
     
   </channel>

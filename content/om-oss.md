@@ -12,6 +12,8 @@ draft: false
             </div>
             <p>Våre folk er spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365, Office365 og Nintex.</p>
             <p>Vi ligger hele tiden i forkant av utviklingen, slik at vi kan lage moderne og fremtidsrettede løsninger som hjelper våre kunder å jobbe smartere digitalt.</p>
+            <p></p>
+            <p>Point Taken - Sentralbord/Support: 22 12 0365</p>
         </div>    
         <div class="col-md-12 col-lg-6"></div>
     </div>

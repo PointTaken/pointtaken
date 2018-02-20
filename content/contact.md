@@ -13,7 +13,7 @@ id = "contact"
                 <h3>Har du sett over sidene våre og sitter igjen med noen spørsmål?</h3>
                 <p>Vi kan hjelpe deg! Send oss en beskjed i kontaktskjemaet vårt, eller ta en prat på chatten, eller ring oss så skal vi kunne svare på det aller meste.</p>
                 <p></p>
-                <p>Point Taken - Sentralbord: 22 12 0365</p>
+                <p>Point Taken - Sentralbord/Support: 22 12 0365</p>
             </div>    
             <div class="col-md-12 col-lg-6"></div>
         </div>

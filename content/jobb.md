@@ -42,11 +42,57 @@ draft: false
                 <tr>
                 <td>Oslo</td>
                 <td>Senior Konsulent Dynamics 365</td>
-                </tr>    
+                </tr>
+                <tr>
+                <td data-toggle="modal" data-target=".kristiansand-1" class="job-position">Kristiansand</td>
+                <td data-toggle="modal" data-target=".kristiansand-1" class="job-position">Utvikler Office 365 og Azure</td>
+                </tr>                  
             </tbody>
             </table>
         </div>
 <!-- STILLINGSBESKRIVELSER -->
+
+<!--Kristiansand utvikler Office 365 og Azure-->
+<div class="modal fade bd-example-modal-lg kristiansand-1" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg modal-xl">
+        <div class="row personmodal modal-content">
+            <div class="modal-header">
+            <h4 class="modal-title">Utvikler Office 365 og Azure</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+            <p>
+            Er du en erfaren web-utvikler og ser etter nye utfordringer?</p>
+            <p>
+            Liker du å ha direkte kontakt med kunder og være med å forme gode løsninger som forbedrer arbeidsdagen til brukere? Point Taken ser etter deg som vil jobbe som konsulent med utvikling i Office 365, SharePoint, Dynamics 365 og Azure. Du bør ha kjennskap til eller ha jobbet med en eller flere av disse plattformene fra før.</p>
+            <p>Vi ønsker også å komme i kontakt med fullstack-utviklere som ikke er skremt av å jobbe med Front-end.</p>
+            <h4>Vi ser etter deg som har:</h4>
+            <ul>
+            <li>Universitets- eller høyskoleutdannelse innen IT.</li>
+            <li>Erfaring som utvikler eller arkitekt basert på Office 365 og/eller SharePoint.</li>
+            <li>God oversikt over standardfunksjonalitet i Office 365/SharePoint.</li>
+            <li>Erfaring med/ønsker å lære webteknologier som HTML5, CSS, JavaScript, REST, React, TypeScript.</li>
+            <li>Konsulenterfaring.</li>
+            </ul>
+            </br>
+            <h4>Point Taken tilbyr blant annet:</h4>
+            <ul>
+            <li>En flott arbeidsplass i et av Norges beste kompetansemiljø på digital samhandling.</li>
+            <li>Spennende prosjekter hos våre kunder.</li>
+            <li>Konkurransedyktige betingelser.</li>
+            <li>Gode forsikrings- og pensjonsordninger.</li>
+            <li>Mulighet for deltagelse på store nasjonale og internasjonale konferanser.</li>
+            <li>Mulighet for eierskap i selskapet.</li>
+            </ul>
+            <p>Ønsker du å jobbe med landets flinkeste og triveligste kolleger? Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder.</p>
+            <p>For spørsmål, ta gjerne kontakt med Thorbjørn Værp på epost tv@pointtaken.no eller mobil +47 905 83 665</p>
+            <p>Informasjon til rekrutteringsselskap vi ikke har rammeavtale med: Point Taken aksepterer ikke CVer fra selskaper som vi ikke har inngått rammeavtale med. Vi tar ikke ansvar for eventuelle avgifter/honorarer på CVer som sendes til oss uoppfordret.</p>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!--Front-end-utvikler-->
 <div class="modal fade bd-example-modal-lg oslo-3" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">

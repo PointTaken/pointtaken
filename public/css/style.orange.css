@@ -949,6 +949,10 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .customers .item {
   text-align: center;
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+   /* These two lines are counted as one :-)       */
+  display: flex;
+  align-items: center;
 }
 .customers .item img {
   display: inline-block;

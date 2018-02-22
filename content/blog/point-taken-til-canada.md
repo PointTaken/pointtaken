@@ -13,7 +13,7 @@ Point Takens SharePoint eksepert Christian Engelschiøn riser i sommer tilbake t
 
 I 2013 var han en av deltagerne som fant Helge Ingstads Vinterkvarter som er omtalt i boken "Pelsjegerliv".
 Også i 2010 var han i Canada for å lete etter stedet, men den gang uten resultat.
-I år skal han bruke kvaretert som base og gå dagsturer i området i tillegg til at de skal lete etter ytterligere minner og spor etter Ingstad.
+I år skal han bruke kvarteret som base og gå dagsturer i området, i tillegg til at de skal lete etter ytterligere minner og spor etter Ingstad.
 
 Med seg på turen har han en annen erfaren villmarksmann: Vidar Bruun fra Jessheim.
 

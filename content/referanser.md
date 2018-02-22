@@ -53,23 +53,23 @@ draft: false
     <div class="col-12 heading text-center">
         <h2 class="mt-5 mb-5">Noen av våre kunder</h2>
     </div>
-<div class="col-sm-6 col-md-3 col-lg-2 item mx-auto">
+<div class="col-xs-6 col-sm-6 col-md-3 col-lg-2 item mx-auto">
 <img src="/img/clients/norgesgruppen-logo.png" alt="Norgesgruppen" class="img-fluid mx-auto">
 </div>
 
-<div class="col-sm-6 col-md-3 col-lg-2 item mx-auto">
+<div class="col-xs-6 col-sm-6 col-md-3 col-lg-2 item mx-auto">
 <img src="/img/clients/afgruppen-logo.png" alt="AF Gruppen" class="img-fluid mx-auto">
 </div>
 
-<div class="col-sm-6 col-md-3 col-lg-2 item">
+<div class="col-xs-6col-sm-6 col-md-3 col-lg-2 item">
 <img src="/img/clients/bahr-logo.png" alt="BAHR" class="img-fluid mx-auto">
 </div>
 
-<div class="col-sm-6 col-md-3 col-lg-2 item mx-auto">
+<div class="col-xs-6 col-sm-6 col-md-3 col-lg-2 item mx-auto">
 <img src="/img/clients/dss-logo.png" alt="DSS" class="img-fluid mx-auto">
 </div>
 
-<div class="col-sm-6 col-md-3 col-lg-2 item mx-auto">
+<div class="col-xs-6 col-sm-6 col-md-3 col-lg-2 item mx-auto">
 <img src="/img/clients/hio-logo.png" alt="Høiskolen i Oslo og Akershus" class="img-fluid mx-auto">
 </div>
 
@@ -87,6 +87,38 @@ draft: false
 
 <div class="col-sm-6 col-md-3 col-lg-2 item">
 <img src="/img/clients/valg.png" alt="Valgdirektoratet" class="img-fluid mx-auto">
+</div>
+
+<div class="col-sm-6 col-md-3 col-lg-2 item">
+<img src="/img/clients/Asker.png" alt="Asker kommune" class="img-fluid mx-auto">
+</div>
+
+<div class="col-sm-6 col-md-3 col-lg-2 item">
+<img src="/img/clients/Bohus.png" alt="Bohus" class="img-fluid mx-auto">
+</div>
+
+<div class="col-sm-6 col-md-3 col-lg-2 item">
+<img src="/img/clients/iktAgder.png" alt="IKT Agder" class="img-fluid mx-auto">
+</div>
+
+<div class="col-sm-6 col-md-3 col-lg-2 item">
+<img src="/img/clients/Nemko.png" alt="Nemko" class="img-fluid mx-auto">
+</div>
+
+<div class="col-sm-6 col-md-3 col-lg-2 item">
+<img src="/img/clients/Sain-Gobain.png" alt="Saint-Gobain" class="img-fluid mx-auto">
+</div>
+
+<div class="col-sm-6 col-md-3 col-lg-2 item">
+<img src="/img/clients/scantrade-logo.png" alt="Scantrade" class="img-fluid mx-auto">
+</div>
+
+<div class="col-sm-6 col-md-3 col-lg-2 item">
+<img src="/img/clients/SIEM.png" alt="SIEM Offshore" class="img-fluid mx-auto">
+</div>
+
+<div class="col-sm-6 col-md-3 col-lg-2 item">
+<img src="/img/clients/UiA.png" alt="Universitetet i Agder" class="img-fluid mx-auto">
 </div>
 
 

@@ -32,7 +32,7 @@ draft: false
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid p-5" src="/img/clients/get.svg" alt="GET" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/get_tdc.jpg" alt="GET" /></div>
                 <div class="col-md-12 col-lg-6" style="padding:2rem">
                     <div class="heading">
                         <h2>Get TDC</h2>

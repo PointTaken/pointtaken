@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 13 Feb 2018 20:56:22 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2018 13:40:21 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sharegate</title>
+      <link>https://www.pointtaken.no/sharegate/</link>
+      <pubDate>Thu, 22 Feb 2018 13:40:21 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/sharegate/</guid>
+      <description>Sharegate  Sharegate er et administrasjonverktøy for Office 365 og SharePoint som hjelper deg med å flytte data til skyen, få oversikt og beholde kontrollen over miljøet.
+    Om Nintex Hvorfor oss? -- Kontakt oss    Flytt til skyen - uten problemer  Sharegate gjør det mulig å få oversikt over data og flytte til Office 365 og SharePoint Online.
+Unasett om dine data finnes på et filområde eller på en SharePoint server vil Sharegate ha verktøy som løser oppgaven</description>
+    </item>
     
     <item>
       <title>Get TDC</title>

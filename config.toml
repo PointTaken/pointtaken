@@ -102,7 +102,7 @@ paginate = 10
     date_format = "2 January, 2006"
 
     logo = "img/pt-logo.png"
-    address = "<p><strong>Point Taken</strong><br>Arbeidersamfunnets plass 1<br>Inngang fra Torggata<br>0181 Oslo<br><strong>Norge</strong><br><br><p><strong>Point Taken</strong><br>Tangen 76<br>Tangen Babord<br>4608 Kristiansand S<br><strong>Norge</strong><br></p>"
+    address = "<p><strong>Point Taken</strong><br>Arbeidersamfunnets plass 1<br>Inngang fra Torggata<br>0181 Oslo<br><strong>Norge</strong><br>Telefon: 2212 0365<br>Org.nr: 912721825 <br><br><p><strong>Kristiansand:</strong><br>Tangen 76<br>Tangen Babord<br>4608 Kristiansand S<br></p>"
     latitude = "59.915691"
     longitude = "10.751929"
 

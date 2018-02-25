@@ -9,7 +9,7 @@ banner: "img/Luc-GDPR-2.jpg"
 ---
 
  
-### I januar hadde vi et fullsatt frokostseminar i Kristiansand, med fokus på bruk av Office 365 intergrated Security  og Comliance center. 
+### I januar hadde vi et fullsatt frokostseminar i Kristiansand, med fokus på bruk av Office 365 integrated Security  og Compliance center. 
 
 Vi viste deltakerne hvordan Office 365 gir dem mulighet for enkelt å finne, klassifisere, beholde eller fjerne persondata, for å møte de kommende kravene i GDPR som trer i kraft allerede 25.mai 2018. 
 

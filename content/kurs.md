@@ -14,7 +14,7 @@ draft: false
             <p>Vår erfaring er at det er opplæring av brukerne som er ett av de viktigste kriteriene for suksess ved innføring av nye systemer.I tillegg til klasseromskurs kan vi bistå med opprettelse av online læring i standard løsning eller kundespesifikke produkter.</p>
             <p>Flere av våre konsulenter er sertifiserte kursholdere fra Microsoft.</p>
         </div>    
-        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/startup-photos.jpg" alt="Kurs" /></div>
+        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/Kurs4.jpg" alt="Kurs" /></div>
     </div>
 </div>
 

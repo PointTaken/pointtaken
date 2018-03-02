@@ -5,7 +5,7 @@ draft: false
 author: "Thorbjørn Værp"
 categories: ["GDPR"]
 tags: [""]
-banner: "img/Luc-GDPR-2.jpg"
+banner: "img/frokostseminar.jpg"
 ---
 
  

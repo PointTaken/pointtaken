@@ -10,7 +10,7 @@ draft: false
                 <h1>CRM</h1>
             </div>
             <h3>Kunder for livet</h3>
-            <p>Når du kombinerer data om Salg, Service og Markedsføring i samme løsning imøtekommer du kundens forventing til totaloversikt. Videre kan kunden nå frem på nesten alle kanaler ved å tilrettelegge for omnichannel i Dynamics 365 ved Portal, Social Engagement og Chat</p>
+            <p>Når du kombinerer data om salg, service og markedsføring i samme løsning imøtekommer du kundens forventing til totaloversikt. Videre kan kunden nå frem på nesten alle kanaler ved å tilrettelegge for omnichannel i Dynamics 365 ved portal, social Engagement og chat</p>
         </div>    
         <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/crm1.png" alt="CRM" /></div>
     </div>
@@ -20,6 +20,8 @@ draft: false
     <div class="row content-menu text-center mx-auto">
         <!-- <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om CRM</a></h4></div>
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div> -->
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pt-salg/">PT:Salg</a></h4></div>
+        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/pt-markedsføring/">PT:Markedsføring</a></h4></div>
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/contact/">Kontakt oss</a></h4></div>
     </div>
 </div>
@@ -34,7 +36,7 @@ draft: false
                         <h2>Dynamics 365 salg</h2>
                     </div>
                     <p>Gi selgeren et system som er enkelt tilgjengelig overalt på alle enheter, samtidig som sikkerheten til bedriftsdata er ivaretatt. Ved å sette salg i system, minimerer du tilfeldigheten av å lande nye kunder. Repeter en vinnende oppskrift gang på gang slik at du øker kundemassen og tilfredsheten. Når kunden opplever et ryddig salg, vil de starte kundereisen med en større trygghet til deg som leverandør.</p>
-                    <!-- <a class="btn btn-primary btn-full" href="/pt-sales/" role="button">PT-Sales: oppstartspakken for små selskaper</a> -->
+                    <a class="btn btn-primary btn-full" href="/pt-salg/" role="button">Les mer om PT:Salg</a>
                 </div>
             </div>
         </div>
@@ -45,6 +47,7 @@ draft: false
                         <h2>Dynamics 365 marketing</h2>
                     </div>
                     <p>Driv trafikken inn til dine hjemmesider med inbound marketing, slik at kundene modnes før de tar kontakt. Når selger mottar et lead er det ikke et kaldt lead, men en kunde som har vist en riktig interesse for hva dere kan tilby. En god marketing strategi vil forbedre opplevelsen til kundene, samt gi selgere en varmere liste å ringe på.</p>
+                    <a class="btn btn-primary btn-full" href="/pt-markedsføring/" role="button">Les mer om PT:Markedsføring</a>
                 </div>            
                 <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/group/5.jpg" alt="CRM" /></div>
             </div>

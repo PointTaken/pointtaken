@@ -577,3 +577,17 @@ footer a:hover {
   cursor: pointer;
   text-decoration: underline;
 }
+#accordion .card-header {
+  background-color: transparent;
+}
+#accordion .card-body {
+  padding: 2rem;
+}
+#accordion .btn-link {
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  color: #292828;
+  font-size: 1.25rem;
+  white-space: inherit;
+}

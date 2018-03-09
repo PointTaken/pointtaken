@@ -76,3 +76,4 @@ id = "contact"
 
 <div class="row">
 <iframe src="https://analytics-eu.clickdimensions.com/pointtakenno-aaajs/pages/seqk2w0deeipuqanoirrlg.html" allowtransparency="true" width="100%" height="500px" type="text/html" frameborder="0" style="border:0"></iframe>
+</div>

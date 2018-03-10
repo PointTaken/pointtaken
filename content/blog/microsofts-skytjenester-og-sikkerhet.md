@@ -42,3 +42,5 @@ Dette er håndtert gjennom tilgjengelige tjenester i Office 365.
 **Data på avveie:** Egne brukere forhindres fra å sende sensitive data ut av organisasjonen ved klassifisering og policies.
 
 **Katastrofeberedskap:** Håndtert gjennom 2 datasentre i 2 ulike land.  Redundans og eget backupregime.
+
+<a class="btn btn-primary btn-out" href="/contact/" role="button">Kontaktinformasjon</a>  

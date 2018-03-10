@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 04 Apr 2017 22:48:54 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2018 21:36:57 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/categories/office-365/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsofts skytjenester og sikkerhet</title>
+      <link>https://www.pointtaken.no/blog/2018/02/22/microsofts-skytjenester-og-sikkerhet/</link>
+      <pubDate>Thu, 22 Feb 2018 21:36:57 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/blog/2018/02/22/microsofts-skytjenester-og-sikkerhet/</guid>
+      <description>Microsofts skytjenester og sikkerhet Microsofts skyplattform er etablert og driftet med meget stort fokus på sikkerhet. Dataene er sikret på mange nivåer både fysisk og i den digitale sfæren. Kunden eier sine egne data og har full kontroll på dem, inkludert hvor disse er lagret. Dataene i Microsofts skytjenester ment for det Europeiske markedet er lagret i Europa, i to datasentre henholdsvis i Irland og Nederland. Data lagres i Irland, med backup og «reserve» i Nederland.</description>
+    </item>
     
     <item>
       <title>Får du ikke åpnet invitasjoner til filer i OneDrive eller SharePoint?</title>

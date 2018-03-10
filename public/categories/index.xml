@@ -6,6 +6,7 @@
     <description>Recent content in Categories on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
     
 	<atom:link href="https://www.pointtaken.no/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -34,6 +35,15 @@
       <pubDate>Fri, 05 Jan 2018 20:22:48 +0100</pubDate>
       
       <guid>https://www.pointtaken.no/categories/it-pro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Office 365</title>
+      <link>https://www.pointtaken.no/categories/office-365/</link>
+      <pubDate>Tue, 04 Apr 2017 22:48:54 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/categories/office-365/</guid>
       <description></description>
     </item>
     

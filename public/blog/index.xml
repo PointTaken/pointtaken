@@ -6,6 +6,7 @@
     <description>Recent content in Blogs on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
     <lastBuildDate>Fri, 02 Mar 2018 09:10:36 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -124,6 +125,28 @@ Read on :-) Step 1 - Get lists!</description>
 Point Taken is the leading SharePoint, Office 365 and Nintex consultancy in Norway. 
 All the devs in Point Taken are heavy users of the awesome repos provided on https://github.com/SharePoint. But even though our SharePoint dev lives have become easier we still encounter challenges and general SharePoint weirdness. This is one of those cases.
 A little background: one of our clients wanted an application that would copy predefined tasks into project sites based on the project type.</description>
+    </item>
+    
+    <item>
+      <title>Får du ikke åpnet invitasjoner til filer i OneDrive eller SharePoint?</title>
+      <link>https://www.pointtaken.no/blog/2017/04/04/apne-invitasjoner-til-filer-i-onedrive-eller-sharepoint/</link>
+      <pubDate>Tue, 04 Apr 2017 22:48:54 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/blog/2017/04/04/apne-invitasjoner-til-filer-i-onedrive-eller-sharepoint/</guid>
+      <description>Får du ikke åpnet invitasjoner til filer i OneDrive eller SharePoint? Opplever du at du ikke får åpnet invitasjoner til dokumenter i Office 365? Dette kan skyldes at du allerede er innlogget med en annen konto da du klikket på lenken.
+I praksis vil det si at alle som klikker på lenken i en invitasjon kan logge inn for å se dokumentet. Brukeren blir riktignok opprettet i Office 365, men brukernavnet kan være et annet enn det det er delt til.</description>
+    </item>
+    
+    <item>
+      <title>Hvor skal jeg lagre dokumentene mine?</title>
+      <link>https://www.pointtaken.no/blog/2017/03/14/hvor-skal-jeg-lagre-dokumentene-mine/</link>
+      <pubDate>Tue, 14 Mar 2017 22:48:54 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/blog/2017/03/14/hvor-skal-jeg-lagre-dokumentene-mine/</guid>
+      <description>Hvor skal jeg lagre dokumentene mine? Med tiden har det kommet mange løsninger på å lagre dokumenter. Hvor skal så dokumentene lagres? Lokalt på c-disken? På bedriftens fellesdisk? I skyen? Hva hvis PC&amp;rsquo;en blir ødelagt eller stjålet? Hva hvis jeg får virus på PC&amp;rsquo;en?
+Det finnes flere svar. Først må du stille deg spørsmålet om hvilket formål dokumentene og filene har.
+• Er dokumentene private eller personlige?
+• Skal andre kunne se eller redigere i dokumentene?</description>
     </item>
     
   </channel>

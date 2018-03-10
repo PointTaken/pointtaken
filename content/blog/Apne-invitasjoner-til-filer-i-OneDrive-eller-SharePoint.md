@@ -24,7 +24,7 @@ Anbefalt innstilling:
 <img class="img-fluid" src="/img/blog/sharingsettings.jpg" /> 
 
 Les også:<br>
-<a href="http://www.pointtaken.no/blogg/hvor-skal-jeg-lagre-dokumentene-mine/">Her bør du lagre filene dine</a>
+<a href="/blog/2017/03/14/hvor-skal-jeg-lagre-dokumentene-mine/">Her bør du lagre filene dine</a>
 
 Vil du vite mer om å flytte filer og dokumenter i skyen? Ta kontakt med Knut Skogvold på telefon +4790583665
 

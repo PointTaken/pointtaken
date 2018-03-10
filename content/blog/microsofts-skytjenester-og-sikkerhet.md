@@ -2,14 +2,16 @@
 title: "Microsofts skytjenester og sikkerhet"
 date: 2018-02-22T21:36:57+01:00
 draft: false
-banner: "img/atp-rapportering.png"
+banner: "img/blog/mscloudsec.png"
 author: "Runar Lund"
 categories: ["Office 365"]
 tags: ["promo"]
 ---
 
 
-Microsofts skyplattform er etablert og driftet med meget stort fokus på sikkerhet. Dataene er sikret på mange nivåer både fysisk og i den digitale sfæren.  Kunden eier sine egne data og har full kontroll på dem, inkludert hvor disse er lagret. Dataene i Microsofts skytjenester ment for det Europeiske markedet er lagret i Europa, i to datasentre henholdsvis i Irland og Nederland. Data lagres i Irland, med backup og «reserve» i Nederland. Microsoft lagrer ikke data utenfor regionen, heller ikke i USA.  Amerikanske myndigheter har ikke tilgang til dataene som er lagret utenfor egne landegrenser, og må gå gjennom det enkelte lands rettssystem for eventuelt å få innsyn i dataene. 
+Microsofts skyplattform er etablert og driftet med meget stort fokus på sikkerhet. Dataene er sikret på mange nivåer både fysisk og i den digitale sfæren.  Kunden eier sine egne data og har full kontroll på dem, inkludert hvor disse er lagret. Dataene i Microsofts skytjenester ment for det Europeiske markedet er lagret i Europa, i to datasentre henholdsvis i Irland og Nederland. Data lagres i Irland, med backup og «reserve» i Nederland. Microsoft lagrer ikke data utenfor regionen, heller ikke i USA.  Amerikanske myndigheter har ikke tilgang til dataene som er lagret utenfor egne landegrenser, og må gå gjennom det enkelte lands rettssystem for eventuelt å få innsyn i dataene.
+
+<img class="img-fluid" src="/img/blog/mscloudsec.png" />
 
 Dette er spesielt viktig for kunder i strengt regulerte bransjer eller i land med strenge databeskyttelseslover. Norge er et slikt land og blir i tillegg underlagt kravene i GDPR direktivet.
 Microsofts skytjenester tilfredsstiller kravene til informasjonssikkerhet for å lagre og behandle personopplysninger, også det som kan betraktes som sensitive. Microsoft har en generell databehandleravtale som tilfredsstiller norske myndigheters krav og GDPR.
@@ -17,6 +19,8 @@ Microsofts skytjenester tilfredsstiller kravene til informasjonssikkerhet for å
 Sikkerheten er godt dokumentert gjennom en omfattende sertifisering av tjenestene.
 Kravet til revisjon av sikkerhet er ivaretatt ved at 3.dje part foretar sertifisering.
 Det at persondataene ikke er lagret på norsk jord er ikke et problem med hensyn på myndighetenes krav.
+<br>
+<br>
 
 #### Slik beskyttes dine data i Microsofts skytjenester:
 

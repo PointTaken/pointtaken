@@ -108,6 +108,37 @@ draft: false
 </div>
 <!--RUNAR SLUTT-->
 
+<!--KNUT INFO-->
+<div class="modal fade bd-example-modal-lg knut" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="row personmodal modal-content flex-row">
+            <button type="button" class="close col-12" data-dismiss="modal" aria-label="Close">
+                <span class="float-right" aria-hidden="true">&times;</span>
+            </button>        
+            <div class="col-sm-12 col-md-4">
+                <img class="img-fluid" src="../img/people/knut.jpg" alt="Card image cap">
+                <h4 class="header-text text-center">Knut</h4>
+            </div>
+            </br>
+            <div class="col-sm-12 col-md-8">
+            <strong>Knut</strong> er salgssjef i Point Taken. Han har lang erfaring som selger i IT-bransjen, og har solgt alt fra kopimaskiner til store komplekse IT-løsninger. Knut har kunden i fokus, og er flink til å finne riktig løsning på kundens utfordringer. Han er faglig dyktig og en jovial kar som er lett å like. Knut holder stor fart og lykkes godt som rådgiver og selger. 
+            </div>
+        </div>
+    </div>
+</div>
+<!--KNUT BILDE-->
+<div class="col-sm-6 col-md-4 col-lg-4">
+    <div class="card personkort" data-toggle="modal" data-target=".knut">
+        <img class="card-img-top img-profil" src="../img/people/knut.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title text-center">Knut Skogvold</h4>
+            <p class="card-subtitle text-center">Salgssjef</p>
+            <p class="card-text text-center">Tlf: 90 09 50 88</p> 
+        </div>
+    </div>
+</div>
+<!--KNUT SLUTT-->
+
 <!--THORBJORN INFO-->
 <div class="modal fade bd-example-modal-lg thorbjorn" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
@@ -529,37 +560,6 @@ draft: false
     </div>
 </div>
 <!--KJETIL Ø SLUTT-->
-
-<!--KNUT INFO-->
-<div class="modal fade bd-example-modal-lg knut" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="row personmodal modal-content flex-row">
-            <button type="button" class="close col-12" data-dismiss="modal" aria-label="Close">
-                <span class="float-right" aria-hidden="true">&times;</span>
-            </button>        
-            <div class="col-sm-12 col-md-4">
-                <img class="img-fluid" src="../img/people/knut.jpg" alt="Card image cap">
-                <h4 class="header-text text-center">Knut</h4>
-            </div>
-            </br>
-            <div class="col-sm-12 col-md-8">
-            <strong>Knut</strong> er salgssjef i Point Taken. Han har lang erfaring som selger i IT-bransjen, og har solgt alt fra kopimaskiner til store komplekse IT-løsninger. Knut har kunden i fokus, og er flink til å finne riktig løsning på kundens utfordringer. Han er faglig dyktig og en jovial kar som er lett å like. Knut holder stor fart og lykkes godt som rådgiver og selger. 
-            </div>
-        </div>
-    </div>
-</div>
-<!--KNUT BILDE-->
-<div class="col-sm-6 col-md-4 col-lg-4">
-    <div class="card personkort" data-toggle="modal" data-target=".knut">
-        <img class="card-img-top img-profil" src="../img/people/knut.jpg" alt="Card image cap">
-        <div class="card-body">
-            <h4 class="card-title text-center">Knut</h4>
-            <p class="card-subtitle text-center">Salgssjef</p>
-            <p class="card-text text-center">Tlf: 90 09 50 88</p> 
-        </div>
-    </div>
-</div>
-<!--KNUT SLUTT-->
 
 <!--KRISITAN INFO-->
 <div class="modal fade bd-example-modal-lg kristian" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">

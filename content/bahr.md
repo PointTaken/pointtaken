@@ -17,7 +17,7 @@ BAHR ønsket en samarbeidspartner som kunne bistå i dette arbeidet.</p>
 <p>
 BAHR er en høykompetansebedrift med bred og dyp erfaring fra et stort antall oppdrag. Denne erfaringen benyttes kollektivt i hverdagen. Firmaet ønsket en ytterligere forbedring av sitt erfaringsarkiv slik at organisasjonens samlede kompetanse lett tilgjengelig gjøres for alle advokatene. I tillegg til denne plattformen, som på en intelligente måte skulle hjelpe de ansatte med å finne informasjon, ekspertise og innsikt, hadde BAHR også behov for å etablere en ny og moderne kommunikasjonsplattform som kunne bygge samhørighet og informere ansatte i på tvers av hele organisasjonen integrert i et nytt intranett.
 </p>
-<p>Interne prosesser samsvarte dårlig med Scantrades ønske om å tilby ansatte en digital og friksjonsfri jobbhverdag.</p>
+<p>Interne prosesser samsvarte dårlig med BAHR sitt ønske om å tilby ansatte en digital og friksjonsfri jobbhverdag.</p>
 
 <h2>Løsningen:</h2>
 <p>

@@ -6,10 +6,24 @@
     <description>Recent content in Blogs on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Mar 2018 09:10:36 +0100</lastBuildDate>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 22 Mar 2018 12:36:57 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Digitaliseringens glemte avdeling</title>
+      <link>https://www.pointtaken.no/blog/2018/03/22/digitaliseringens-glemte-avdeling/</link>
+      <pubDate>Thu, 22 Mar 2018 12:36:57 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/blog/2018/03/22/digitaliseringens-glemte-avdeling/</guid>
+      <description>Digitaliseringen har gått gjennom hele bedriften og alle er nå fornøyde, men kan det være noen du har glemt?
+Salgsavdelingen har fått sitt CRM-system og har full kontroll over sine potensielle kunder.
+Markedsavdelingen har fått et markedsføringsverktøy  som hjelper dem til å automatisere sitt løp for inngående markedsføring.
+Finansavdelingen har full kontroll på alle finansielle transaksjoner og lagerstatus, her hjelper systemet til at ingenting glipper.
+Ledergruppen jubler fordi de endelig har fått verktøy som viser hele kundesyklusen fra markedsavdelingen får etablert kontakten og gjort dem interessert, til salgsavdelingen tar kontakt og gjennomfører et salg, til fakturering og oppfølging av betaling og marked sin videre jobb med å beholde dem som kunder.</description>
+    </item>
     
     <item>
       <title>Opplev GDPR i praksis ved bruk av Microsoft Office 365</title>

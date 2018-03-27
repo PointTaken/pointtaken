@@ -30,7 +30,7 @@ En sikker, nettbasert plattform samler alle på ett sted og følger dine ansatte
 
 -	Å ta en avgjørelse på at din virksomhet skal innføre en ny måte å jobbe på er første steg. Finn en partner som har hjulpet andre gjennom slike prosesser tidligere. Deres erfaring er ofte veldig nyttig i både en kartleggingsfase, når løsningen skal settes opp teknisk og ikke minst når de ansatte skal læres opp og veiledes i den kritiske oppstartsfasen, avslutter Tangen.
 
-Kom og hør noen av Norges største merkevarer snakke om hvorfor og hvordan de har innført nye måter å jobbe på. [Meld deg på vårt frokostseminar her](http://localhost:1313/blog/2018/03/27/velkommen-til-frokostseminar/). Der vil vi også demonstrere hvordan disse verktøyene kan brukes i praksis.
+Kom og hør noen av Norges største merkevarer snakke om hvorfor og hvordan de har innført nye måter å jobbe på. [Meld deg på vårt frokostseminar her](/blog/2018/03/27/velkommen-til-frokostseminar/). Der vil vi også demonstrere hvordan disse verktøyene kan brukes i praksis.
 <br>
 <br>
 

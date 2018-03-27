@@ -12,17 +12,17 @@ banner: "img/blog/seminar5.jpg"
 
 ## Start den digitale transformasjonen i dag - jobb smartere, mer effektiv og sikrere!
 
-Vi inviterer til gratis frokostseminar hos Microsoft Norge, sammen med NorgesGruppen, GET TDC og BAHR. Hør hvordan disse sterke, norske merkevarene har tatt i bruk digitale, skybaserte verktøy for mer effektive og fornøyde ansatte, og ikke minst gjort virksomhetene sine mer produktive og bedre rustet for fremtiden.
+<strong>Vi inviterer til gratis frokostseminar hos Microsoft Norge, sammen med NorgesGruppen, Get TDC og BAHR. Hør hvordan disse sterke, norske merkevarene har tatt i bruk digitale, skybaserte verktøy for mer effektive og fornøyde ansatte, og ikke minst gjort virksomhetene sine mer produktive og bedre rustet for fremtiden.</strong>
 
 Vi ser en digital transformasjon og endringer i samfunnet som har en fart det kan være vanskelig å følge med på. Sett din virksomhet opp for suksess nå ved å investere i teknologi og en digital måte å jobbe på som er tilpasset nye arbeidsformer og fremtidens arbeidstagere. Da er du og dine kolleger klare for å møte nye konkurransesituasjoner og utfordringer på best mulig måte. 
 
 Denne morgenen vil du få demonstrert hvordan den digitale plattformen og mulighetene der kan fungere for din virksomhet i praksis.
 
-* TV-, internett- og infrastrukturleverandøren Get TDC har en base med ansatte med veldig store sprik i behov og hvordan arbeidshverdagen er. Alt fra utegående selgere og teknikere i felt, til kundeservice og andre som sitter inne på kontoret. De vil snakke om hvordan de har satset digitalt, forenklet arbeidet og samhandlingen på tvers, og hvordan alle enkelt kan være effektive selv i bilen på vei til en avtale.
+* TV-, internett- og infrastrukturleverandøren <strong>Get TDC</strong> har en base med ansatte med veldig store sprik i behov og hvordan arbeidshverdagen er. Alt fra utegående selgere og teknikere i felt, til kundeservice og andre som sitter inne på kontoret. De vil snakke om hvordan de har satset digitalt, forenklet arbeidet og samhandlingen på tvers, og hvordan alle enkelt kan være effektive selv i bilen på vei til en avtale.
 
-* Advokatfirmaet BAHR ønsket å forsterke arbeidet med erfarings- og kunnskapsdeling, og hadde også behov for en mer moderne kommunikasjonsplattform. På frokostseminaret vil de snakke om hvordan de ved hjelp av sin nye plattform bygger samhørighet, enklere jobber med informasjon internt og hvordan den kollektive kunnskapen nå er mer tilgjengelig.
+* Advokatfirmaet <strong>BAHR</strong> ønsket å forsterke arbeidet med erfarings- og kunnskapsdeling, og hadde også behov for en mer moderne kommunikasjonsplattform. På frokostseminaret vil de snakke om hvordan de ved hjelp av sin nye plattform bygger samhørighet, enklere jobber med informasjon internt og hvordan den kollektive kunnskapen nå er mer tilgjengelig.
 
-* NorgesGruppen, en av Norges største aktører innen dagligvare, har for flere deler av virksomheten innført nye digitale måter å jobbe på. Både i kontormiljø og for den delen av virksomheten som har ansvaret for distribusjon av matvarer rundt om i landet. De vil blant annet snakke om hvordan nye verktøy og et nytt avvikssystem har effektivisert virksomheten.  
+* <strong>NorgesGruppen</strong>, en av Norges største aktører innen dagligvare, har for flere deler av virksomheten innført nye digitale måter å jobbe på. Både i kontormiljø og for den delen av virksomheten som har ansvaret for distribusjon av matvarer rundt om i landet. De vil blant annet snakke om hvordan nye verktøy og et nytt avvikssystem har effektivisert virksomheten.  
 
 Bli inspirert, høst erfaringer fra andre og kom ett steg nærmere din virksomhets digitale transformasjon på vårt frokostseminar 26. april. Meld deg på under, så gleder vi oss til å se deg. Velkommen!
 <br />
@@ -33,15 +33,13 @@ Bli inspirert, høst erfaringer fra andre og kom ett steg nærmere din virksomhe
 
 #### Hvilke fordeler kan adopsjonen av digitale måter å jobbe på ha:
 
-* En nettbasert løsning følger dine ansatte uansett hvilken enhet de jobber på, eller hvor de er. De er koblet til kontoret til enhver tid via pc-en eller apper tilgjengelige for både nettbrett og smarttelefoner.
+* En nettbasert løsning følger dine ansatte uansett hvilken enhet de jobber på, eller hvor de er. De er <strong>koblet til kontoret når de ønsker</strong> via pc-en eller apper tilgjengelige for både nettbrett og smarttelefoner.
 
-* Dine ansatte kan jobbe uansett hvor de er, enten de er ute på reise, jobber ute i felt på noe vis eller har hjemmekontor. Samhandlingen mellom alle ansatte blir både enklere og mer effektiv.
+* Mer <strong>effektiv og sikrere filhåndtering</strong> sørger for at informasjonen alltid er oppdatert, der den skal være. Aldri mer utilsiktede kopier lagret, sending av samme dokument frem og tilbake og «hvilken versjon er riktig»-problematikk.
 
-* Mer effektiv og sikrere filhåndtering sørger for at informasjonen alltid er oppdatert, der den skal være. Aldri mer utilsiktede kopier lagret, sending av samme dokument frem og tilbake og «hvilken versjon er riktig»-problematikk.
+* Snakk med kollegaene dine via <strong>chattefunksjoner</strong>. Dette gjør at korte beskjeder, spørsmål og diskusjoner kan foregå uten endeløse e-posttråder, og alt er søkbart for senere referanser.
 
-* Snakk med kollegaene dine via chattefunksjoner. Dette gjør at korte beskjeder, spørsmål og diskusjoner kan foregå uten endeløse e-posttråder, og alt er søkbart for senere referanser.
-
-* En sikker, nettbasert plattform, med funksjonene nevnt over, tar seg også av en del av kravene i de nye personvernreglene, populært kalt GDPR. Det sikrer informasjonen du lagrer om både dine ansatte og andre kontakter.
+* En sikker, nettbasert plattform, med funksjonene nevnt over, tar seg også av en del av kravene i de nye personvernreglene, populært kalt <strong>GDPR</strong>. Det sikrer informasjonen du lagrer om både dine ansatte og andre kontakter.
 
 <img class="img-fluid" src="/img/blog/seminar3.jpg" />
 <br />

@@ -41,9 +41,9 @@ draft: false
 <div class="jumbotron jumbotron-fluid">
 <div id="om" class="container">
     <div class="row justify-content-center">
-    <div class=" col-12 heading text-center">
+    <div class=" col-12 text-center mb-4">
         <h2>Eksempler på kurs vi holder</h2>
-        <p class="col-8 mx-auto">En liten tekst som sier noe om at vi holder mange forskjellige typer kurs, og kan skreddersy kurs til å handle om hva det enn måtte være.
+        <!-- <p class="col-8 mx-auto">En liten tekst som sier noe om at vi holder mange forskjellige typer kurs, og kan skreddersy kurs til å handle om hva det enn måtte være. -->
     </div>
     <div class="col-lg-4 col-sm-6 bg-white p-4 kurs-card">
         <div class="heading"><h4>Bli kjent med Office 365</h4></div>

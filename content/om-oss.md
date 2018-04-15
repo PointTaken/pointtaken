@@ -623,6 +623,36 @@ draft: false
 </div>
 <!--LUC SLUTT-->
 
+<!--MALIN INFO-->
+<div class="modal fade bd-example-modal-lg malin" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="row personmodal modal-content flex-row">
+            <button type="button" class="close col-12" data-dismiss="modal" aria-label="Close">
+                <span class="float-right" aria-hidden="true">&times;</span>
+            </button>        
+            <div class="col-sm-12 col-md-4">
+                <img class="img-fluid" src="../img/people/malin.jpg" alt="Card image cap">
+                <h4 class="header-text text-center">Malin</h4>
+            </div>
+            </br>
+            <div class="col-sm-12 col-md-8">
+            <strong>Malin</strong> er Dynamics 365 konsulent og solstråle fra nord. Hun har bakgrunn innen markedsføring, og har spesialisert seg på markedsføring og CRM som en kombinasjon. En strukturert konsulent som er opptatt a kundene forstår hva de skal få. Er om mulig litt for interessert i Liverpool og mener at neste sesong sikkert blir bedre.
+            </div>
+        </div>
+    </div>
+</div>
+<!--MALIN BILDE-->
+<div class="col-sm-6 col-md-4 col-lg-4">
+    <div class="card personkort" data-toggle="modal" data-target=".malin">
+        <img class="card-img-top img-profil" src="../img/people/malin.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title text-center">Malin</h4>
+            <p class="card-subtitle text-center">Seniorkonsulent – Dynamics CRM</p>
+        </div>
+    </div>
+</div>
+<!--MALIN SLUTT-->
+
 <!--MARTIN INFO-->
 <div class="modal fade bd-example-modal-lg martin" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
@@ -743,6 +773,35 @@ draft: false
     </div>
 </div>
 <!--THOMAS SLUTT-->
+
+<!--WENCHE INFO-->
+<div class="modal fade bd-example-modal-lg wenche" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="row personmodal modal-content flex-row">
+            <button type="button" class="close col-12" data-dismiss="modal" aria-label="Close">
+                <span class="float-right" aria-hidden="true">&times;</span>
+            </button>        
+            <div class="col-sm-12 col-md-4">
+                <img class="img-fluid" src="../img/people/wenche.jpg" alt="Card image cap">
+                <h4 class="header-text text-center">Wenche</h4>
+            </div>
+            </br>
+            <div class="col-sm-12 col-md-8"> 
+            </div>
+        </div>
+    </div>
+</div>
+<!--WENCHE BILDE-->
+<div class="col-sm-6 col-md-4 col-lg-4">
+    <div class="card personkort" data-toggle="modal" data-target=".wenche">
+        <img class="card-img-top img-profil" src="../img/people/wenche.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title text-center">Wenche</h4>
+            <p class="card-subtitle text-center">Seniorkonsulent SharePoint</p>
+        </div>
+    </div>
+</div>
+<!--WENCHE SLUTT-->
 
 <!--ØYVIND V INFO-->
 <div class="modal fade bd-example-modal-lg oyvind-v" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">

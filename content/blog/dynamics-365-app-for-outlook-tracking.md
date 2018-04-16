@@ -2,7 +2,7 @@
 title: "Dynamics 365 app for outlook tracking"
 date: 2018-03-25T21:20:08+01:00
 draft: false
-banner: "img/blog/outlook-app/FirOutlookApp1.png"
+banner: "img/blog/outlook-app/OutlookApp1.png"
 author: "Martin Grinde"
 categories: ["Dynamics 365"]
 tags: ["promo"]

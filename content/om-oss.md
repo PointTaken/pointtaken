@@ -636,7 +636,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            <strong>Malin</strong> er Dynamics 365 konsulent og solstråle fra nord. Hun har bakgrunn innen markedsføring, og har spesialisert seg på markedsføring og CRM som en kombinasjon. En strukturert konsulent som er opptatt a kundene forstår hva de skal få. Er om mulig litt for interessert i Liverpool og mener at neste sesong sikkert blir bedre.
+            <strong>Malin</strong> er Dynamics 365 konsulent og solstråle fra nord. Hun har bakgrunn innen markedsføring, og har spesialisert seg på markedsføring og CRM som en kombinasjon. En strukturert konsulent som er opptatt at kundene forstår hva de skal få. Er om mulig litt for interessert i Liverpool og mener at neste sesong sikkert blir bedre.
             </div>
         </div>
     </div>
@@ -787,6 +787,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8"> 
+             <strong>Wenche</strong> er en erfaren systemarkitekt og utvikler. Hun har mer enn 20 års erfaring innen IT-bransjen, både i Norge og internasjonalt. Hun er ekspert på SharePoint og Nintex både "On Prem" og online. Hun utvikler web parts, web services og apps.
             </div>
         </div>
     </div>
@@ -797,7 +798,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/wenche.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Wenche</h4>
-            <p class="card-subtitle text-center">Seniorkonsulent SharePoint</p>
+            <p class="card-subtitle text-center">Seniorkonsulent SharePoint/Nintex</p>
         </div>
     </div>
 </div>

@@ -10,7 +10,7 @@ banner: "img/blog/seminar5.jpg"
 
 <img class="img-fluid" src="/img/blog/seminar1.jpg" />
 
-## Start den digitale transformasjonen i dag - jobb smartere, mer effektiv og sikrere!
+## Start den digitale transformasjonen i dag - jobb smartere, mer effektivt og sikrere!
 
 <strong>Vi inviterer til gratis frokostseminar hos Microsoft Norge, sammen med NorgesGruppen, Get TDC og BAHR. Hør hvordan disse sterke, norske merkevarene har tatt i bruk digitale, skybaserte verktøy for mer effektive og fornøyde ansatte, og ikke minst gjort virksomhetene sine mer produktive og bedre rustet for fremtiden.</strong>
 

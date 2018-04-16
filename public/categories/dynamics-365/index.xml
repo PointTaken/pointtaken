@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 22 Mar 2018 12:36:57 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 25 Mar 2018 21:20:08 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/categories/dynamics-365/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dynamics 365 app for outlook tracking</title>
+      <link>https://www.pointtaken.no/blog/2018/03/25/dynamics-365-app-for-outlook-tracking/</link>
+      <pubDate>Sun, 25 Mar 2018 21:20:08 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/blog/2018/03/25/dynamics-365-app-for-outlook-tracking/</guid>
+      <description>When Microsoft release Dynamics 365 app for Outlook, they introduced a client with modern and seamless experience for tracking email to Dynamics 365. While the client introduces a lot of great benefits that were no doubt great, it forgot one of the most basic tasks. Before you could see a small icon on emails when things were tracked.
+Now you have to open the outlook client on every single email you have in the inbox to see if it has been tracked.</description>
+    </item>
     
     <item>
       <title>Digitaliseringens glemte avdeling</title>

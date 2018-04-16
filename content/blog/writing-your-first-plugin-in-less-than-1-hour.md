@@ -1,5 +1,5 @@
 ---
-title: "Dynamics 365 - Customer engagement - Writing your first plugin in less than 1 hour "
+title: "Writing your first plugin in less than 1 hour"
 date: 2018-03-25T21:18:08+01:00
 draft: false
 banner: "img/blog/plugin/FirstPlugin1.png"
@@ -7,7 +7,8 @@ author: "Thomas Sandsør"
 categories: ["dev"]
 tags: ["promo"]
 ---
-
+### Dynamics 365 - Customer engagement
+<br>
 
 Before you start, you should know that I am not a developer. I can’t answer questions about development directly. This is intended for functional consultants that want to be able to make simple plugins without any developer knowledge. 
 ##### Scenario:

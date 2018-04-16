@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>Writing your first plugin in less than 1 hour </title>
+      <title>Dynamics 365 - Customer engagement - Writing your first plugin in less than 1 hour </title>
       <link>https://www.pointtaken.no/blog/2018/03/25/writing-your-first-plugin-in-less-than-1-hour/</link>
       <pubDate>Sun, 25 Mar 2018 21:18:08 +0100</pubDate>
       
       <guid>https://www.pointtaken.no/blog/2018/03/25/writing-your-first-plugin-in-less-than-1-hour/</guid>
-      <description>Dynamics 365 - Customer engagement - Writing your first plugin in less than 1 hour Before you start, you should know that I am not a developer. I can’t answer questions about development directly. This is intended for functional consultants that want to be able to make simple plugins without any developer knowledge.
+      <description>Before you start, you should know that I am not a developer. I can’t answer questions about development directly. This is intended for functional consultants that want to be able to make simple plugins without any developer knowledge.
 Scenario: I have an opportunity with a custom product table connected. It has been a scenario that I have needed many times because of the complex product structure in Dynamics that you don’t always need to implement.</description>
     </item>
     

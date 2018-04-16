@@ -1,5 +1,5 @@
 ---
-title: "Writing your first plugin in less than 1 hour "
+title: "Dynamics 365 - Customer engagement - Writing your first plugin in less than 1 hour "
 date: 2018-03-25T21:18:08+01:00
 draft: false
 banner: "img/blog/plugin/FirstPlugin1.png"
@@ -8,18 +8,19 @@ categories: ["dev"]
 tags: ["promo"]
 ---
 
-# Dynamics 365 - Customer engagement - Writing your first plugin in less than 1 hour 
+
 Before you start, you should know that I am not a developer. I can’t answer questions about development directly. This is intended for functional consultants that want to be able to make simple plugins without any developer knowledge. 
 ##### Scenario:
 I have an opportunity with a custom product table connected. It has been a scenario that I have needed many times because of the complex product structure in Dynamics that you don’t always need to implement.  
 <img class="img-fluid mt-4 mb-4" src="/img/blog/plugin/FirstPlugin1.png" /> 
 <br>
-#### First things first 
+#### Prerequisites:
 
 Create a new trial for Dynamics 365. I will provide my solution file here for the setup above, but you can just as well configure whatever you want. The solution file ONLY includes the custom entity.  
 Download Visual Studio Community edition (Free in some cases, but read license guide).  
 https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Community&rel=15 
 Under the installation just click next next etc. The only time you need to perform a choice is here:
+
 <img class="img-fluid mt-4 mb-4" src="/img/blog/plugin/FirstPlugin2.png" />
 
 Make sure you choose the .net desktop checkbox. Then continue to click next next and wait until you are done.  

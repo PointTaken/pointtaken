@@ -12,7 +12,8 @@ tags: ["promo"]
 
 Before you start, you should know that I am not a developer. I can’t answer questions about development directly. This is intended for functional consultants that want to be able to make simple plugins without any developer knowledge. 
 ##### Scenario:
-I have an opportunity with a custom product table connected. It has been a scenario that I have needed many times because of the complex product structure in Dynamics that you don’t always need to implement.  
+I have an opportunity with a custom product table connected. I need the value of the product lines to synchronously sum up to the Opportunity when I hit save. Pretty much the same you would expect when you use the out of the box product entity.
+  
 <img class="img-fluid mt-4 mb-4" src="/img/blog/plugin/FirstPlugin1.png" /> 
 <br>
 #### Prerequisites:

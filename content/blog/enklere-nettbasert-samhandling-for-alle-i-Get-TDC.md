@@ -45,7 +45,7 @@ Selv om innføringen av en ny arbeidsplattform og en ny måte å jobbe førte ti
  
 Point Taken arrangerer et kostnadsfritt frokostseminar om sikre, digitale plattformer og hvordan jobbe mer effektivt. 
 [Les mer her](https://www.pointtaken.no/blog/2018/03/27/utstyr-dine-ansatte-for-fremtidig-suksess/)
-<br>, eller 
+,<br> eller 
 [gå direkte til påmelding her](https://www.eventbrite.com/e/frokostseminar-utstyr-dine-ansatte-for-fremtidig-suksess-tickets-43973773741).  
  
 

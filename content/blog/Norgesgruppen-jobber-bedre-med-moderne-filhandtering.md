@@ -2,7 +2,7 @@
 title: "Norgesgruppen jobber bedre med moderne Filhåndtering"
 date: 2018-04-15T20:01:49+02:00
 draft: false
-author: "Lisbeth Løkås Nordvik"
+author: "Carin Andal"
 categories: ["Office 365"]
 tags: [""]
 banner: "img/ng-lastebil.jpg"

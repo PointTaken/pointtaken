@@ -2,7 +2,7 @@
 title: "Enklere nettbasert samhandling for alle i Get TDC"
 date: 2018-04-17T12:01:49+02:00
 draft: false
-author: "Lisbeth Løkås Nordvik"
+author: "Carin Andal"
 categories: ["Office 365"]
 tags: [""]
 banner: "/img/blog/gettdc/Opplaering-Get-TDC1.JPEG"

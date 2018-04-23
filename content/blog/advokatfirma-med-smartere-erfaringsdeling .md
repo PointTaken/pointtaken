@@ -31,7 +31,7 @@ I BAHR er det Knowledge Manager, Henrik Fagerholt, som har hatt ansvaret for gje
 
 <div style="margin-left:20px;"><em>Erfaringsarkiv og intranett er viktige verktøy for både kompetansedeling og internkommunikasjon, og for samarbeid. De ansatte blir også mer effektive og bruker mindre tid på å lete etter den informasjonen og kunnskapen de trenger, sier Henrik Fagerholt hos BAHR. </em></div><br>
 <img class="img-fluid mt-3 mb-3" src="/img/blog/henrik.jpg" /> <br>
-<em>Henrik Fagerolt, CTO BAHR LEAP AS</em>
+<em>Henrik Fagerholt, Knowledge Manager i BAHR</em>
 
 Vil du høre mer om hva BAHR har gjort? Meld deg på frokostseminar 26. april.<br>
 [Les mer her.](https://www.pointtaken.no/blog/2018/03/27/velkommen-til-frokostseminar/)

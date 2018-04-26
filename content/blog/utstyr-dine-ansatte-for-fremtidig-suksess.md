@@ -16,10 +16,6 @@ Både nye og mer erfarne arbeidstakere begynner å stille krav til hvordan de vi
 
 Med relativt enkle grep er det mulig å bygge videre på Office 365-pakken for å sette opp en nettbasert og sikker plattform som samler alle dine ansatte, forenkler dokumenthåndteringen og som kan tilpasses deres behov. 
 <br />
-<br />
-<a class="btn btn-primary btn-full" href="https://www.eventbrite.com/e/frokostseminar-utstyr-dine-ansatte-for-fremtidig-suksess-tickets-43973773741" role="button">Meld deg på seminaret</a>
-<br />
-<br />
 #### Skap en kultur for nye muligheter 
 En godt utstyrt arbeidsstyrke er den viktigste forutsetningen for å møte nye utfordringer og stadig tøffere konkurranse. Virksomheter som har vilje til å endre seg og en kultur som omfavner nye muligheter har en viktig komponent for å lykkes i fremtiden. 
 
@@ -33,10 +29,12 @@ En sikker, nettbasert plattform samler alle på ett sted og følger dine ansatte
 
 -	Å ta en avgjørelse på at din virksomhet skal innføre en ny måte å jobbe på er første steg. Finn en partner som har hjulpet andre gjennom slike prosesser tidligere. Deres erfaring er ofte veldig nyttig i både en kartleggingsfase, når løsningen skal settes opp teknisk og ikke minst når de ansatte skal læres opp og veiledes i den kritiske oppstartsfasen, avslutter Tangen.
 
-Kom og hør noen av Norges største merkevarer snakke om hvorfor og hvordan de har innført nye måter å jobbe på. [Meld deg på vårt frokostseminar her](https://www.eventbrite.com/e/frokostseminar-utstyr-dine-ansatte-for-fremtidig-suksess-tickets-43973773741). Der vil vi også demonstrere hvordan disse verktøyene kan brukes i praksis.
-<br />
-<br />
-<a class="btn btn-primary btn-full" href="https://www.eventbrite.com/e/frokostseminar-utstyr-dine-ansatte-for-fremtidig-suksess-tickets-43973773741" role="button">Meld deg på seminaret</a>
-<br />
+Kom og hør noen av Norges største merkevarer snakke om hvorfor og hvordan de har innført nye måter å jobbe på.
 <br />
 
+Seminaret er avholdt.
+
+Vil du vite mer?
+<br>
+Ta kontakt med Knut Skogvold på telefon 900 95 088 eller send en <br>
+<a href="kundeservice i pointtaken.no"  rel="nofollow" onclick="this.href='mailto:' + 'kundeservice' + '@' + 'pointtaken.no'">e-Post til kundeservice i Point Taken</a>

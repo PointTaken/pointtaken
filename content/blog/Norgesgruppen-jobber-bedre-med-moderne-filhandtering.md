@@ -21,7 +21,6 @@ Overføringen til SharePoint gir de ansatte tilgang til filene uansett hvor de e
 
 Når vi kjører opplæring har vi først en grundig gjennomgang av hvordan filer lagres, åpnes og ikke minst organiseres. Veldig mange blir overrasket over hvor enkel SharePoint er å bruke nå etter at det nye brukergrensesnittet er på plass, og ikke minst er de veldig positive til appene for både smarttelefon og nettbrett. Det gir fleksibilitet ved å ha tilgang til filene uansett hvor de er, sier Fotland.
 
-[Hør mer fra NorgesGruppen på vårt seminar 26. april.](https://www.pointtaken.no/blog/2018/03/27/velkommen-til-frokostseminar/)
 
 #### Avviksmeldinger doblet 
 
@@ -33,18 +32,14 @@ NorgesGruppen selv ser at både ansatte og ledere har fordeler med hvordan Share
 
 Vi har alle nytte av å kunne finne og jobbe i dokumenter når vi er ute i møter eller er på reise. Det er viktig for oss å være en attraktiv arbeidsgiver for de som kommer ut fra studier nå de nærmeste årene, og de forventer å kunne jobbe mer fleksibelt og uansett hvor de er, sier Kristin Sundmark Hole hos NorgesGruppen   
 
-Ønsker du å vite mer om hvordan din virksomhet kan ta i bruk SharePoint og andre Microsoft-produkter for å jobbe smartere, sikrere og mer effektivt? [Les mer om det her](https://www.pointtaken.no/blog/2018/03/27/velkommen-til-frokostseminar/)., og meld deg på vårt frokostseminar 26. april. Der vil du høre mer fra NorgesGruppen, samt advokatfirmaet BAHR og TV-, internett- og infrastrukturleverandøren Get TDC.  
-
-<br />
-<br />
-<a class="btn btn-primary btn-full" href="https://www.eventbrite.com/e/frokostseminar-utstyr-dine-ansatte-for-fremtidig-suksess-tickets-43973773741" role="button">Meld deg på seminaret</a>
-<br />
-<br />
-
 <img class="img-fluid mt-3 mb-3" src="/img/ksh.jpg" />
 </br >
 <em>Kristin Sundmark Hole</em>
  
+Vil du høre mer om hva NorgesGruppen har gjort?
+<br>
+Ta kontakt med Knut Skogvold på telefon 900 95 088 eller send en <br>
+<a href="kundeservice i pointtaken.no"  rel="nofollow" onclick="this.href='mailto:' + 'kundeservice' + '@' + 'pointtaken.no'">e-Post til kundeservice i Point Taken</a>
 
  
 

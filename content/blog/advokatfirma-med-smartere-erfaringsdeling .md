@@ -14,11 +14,6 @@ Forretningsadvokatfirmaet BAHR er basert i Oslo og har i underkant av 200 medarb
 <br>
 <div style="margin-left:20px;"><em>Vi la grunnlaget ved å benytte Office 365, som både nytt intranett og nytt erfaringsarkiv er bygget på. Her ligger det både intern informasjon og erfaringsmateriale. De ansatte finner nyheter og retningslinjer og de kan snakke sammen. De har også et system for å synliggjøre hvor mye kapasitet hver enkelt har. Alt er samlet på ett sted og det er enkelt å finne frem, sier Kjetil Hovding fra Point Taken </em></div><br>
 
-Point Taken arrangerer frokostseminar 26. april. <br>
-[Kom og hør BAHR og andre snakke om hvordan de jobber mer effektivt med moderne, nettbaserte plattformer](https://www.pointtaken.no/blog/2018/03/27/velkommen-til-frokostseminar/)
-<br><br>
-<a class="btn btn-primary btn-full" href="https://www.eventbrite.com/e/frokostseminar-utstyr-dine-ansatte-for-fremtidig-suksess-tickets-43973773741" role="button">Meld deg på seminaret</a>
-<br> 
 <br>
 
 #### Fokus på erfaringsdeling
@@ -33,7 +28,7 @@ I BAHR er det Knowledge Manager, Henrik Fagerholt, som har hatt ansvaret for gje
 <img class="img-fluid mt-3 mb-3" src="/img/blog/henrik.jpg" /> <br>
 <em>Henrik Fagerholt, Knowledge Manager i BAHR</em>
 
-Vil du høre mer om hva BAHR har gjort? Meld deg på frokostseminar 26. april.<br>
-[Les mer her.](https://www.pointtaken.no/blog/2018/03/27/velkommen-til-frokostseminar/)
-,<br> eller 
-[gå direkte til påmelding her](https://www.eventbrite.com/e/frokostseminar-utstyr-dine-ansatte-for-fremtidig-suksess-tickets-43973773741).  
+Vil du høre mer om hva BAHR har gjort?
+<br>
+Ta kontakt med Knut Skogvold på telefon 900 95 088 eller send en <br>
+<a href="kundeservice i pointtaken.no"  rel="nofollow" onclick="this.href='mailto:' + 'kundeservice' + '@' + 'pointtaken.no'">e-Post til kundeservice i Point Taken</a>

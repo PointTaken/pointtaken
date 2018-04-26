@@ -16,19 +16,17 @@ Get er for mange kjent som leverandør av TV og internett. Selskapet har en trad
 
 <em>Jeg hadde noen veldig klare tanker og ideer på hvordan jeg ville at vi skulle sette opp våre interne systemer for fremtiden. Løsningen og den nye nettbaserte portalen vi har nå er et resultat av en prosess som har pågått over noen år nå, og vi ser at det har gitt positive konsekvenser for våre ansatte. De kan være koblet på og jobbe uansett hvor de befinner seg, sier IT-sjef Jan Kåre Arnesen.  </em>
 
-[Hør mer fra Get TDC på vårt seminar 26. april.](https://www.pointtaken.no/blog/2018/03/27/velkommen-til-frokostseminar/)
+<br>
 
 #### Mer effektiv arbeidshverdag  
 
 Get består av både administrasjon, ledelse og drift som sitter på kontor, men også utegående selgere og teknikere som jobber med installasjoner, vedlikehold og kundesupport. Alle disse er nå tilknyttet den nye plattformen som gjør at de er koblet opp mot kontoret, uansett hvor de er. 
  
 <em>Selgerne blir utstyrt med nettbrett hvor all informasjonen de trenger er synkronisert, og de er operative på bare noen minutter. Teknikerne har enheter som tåler en støyt. Utenom enkelte faginstallasjoner er all informasjon tilgjengelig også for disse ansatte via den nye portalen. Å være pålogget og tilgjengelig selv om du er ute på oppdrag eller i møter har forenklet mye av koordinasjonen og informasjonsflyten for alle, inkludert de som vanligvis jobber ute i felt, sier Arnesen. </em>
- 
+<br> <br>
 Vil du vite mer om hvordan din virksomhet kan jobbe mer digitalt, effektivt og sikkert? 
-<br />
-<br />
-<a class="btn btn-primary btn-full" href="https://www.eventbrite.com/e/frokostseminar-utstyr-dine-ansatte-for-fremtidig-suksess-tickets-43973773741" role="button">Meld deg på seminaret</a>
-<br />
+Ta kontakt med Knut Skogvold på telefon 900 95 088 eller send en 
+<a href="kundeservice i pointtaken.no"  rel="nofollow" onclick="this.href='mailto:' + 'kundeservice' + '@' + 'pointtaken.no'">e-Post til kundeservice i Point Taken</a>
 <br />
 <img class="img-fluid mt-3 mb-3" src="/img/blog/gettdc/Opplaering-Get-TDC2.JPEG" />
 <br />
@@ -43,11 +41,12 @@ Selv om innføringen av en ny arbeidsplattform og en ny måte å jobbe førte ti
  
 <em>Det blir naturlig nok litt frustrasjon internt i en slik endringsprosess. Spesielt kan vaner som hvor ting skal lagres og filstruktur føles fremmed og vanskelig først. Derfor var det viktig for oss at Point Taken kom inn og var ekspertene og at de hadde pedagogiske ferdigheter. Vi har hatt høyt fokus på opplæring, og jeg tror vi trygt kan si at dette alt i alt har gjort våre ansatte mer effektive og at de kan samhandle bedre enn før, avslutter Arnesen.</em>  
  
-Point Taken arrangerer et kostnadsfritt frokostseminar om sikre, digitale plattformer og hvordan jobbe mer effektivt. 
-[Les mer her](https://www.pointtaken.no/blog/2018/03/27/utstyr-dine-ansatte-for-fremtidig-suksess/)
-,<br> eller 
-[gå direkte til påmelding her](https://www.eventbrite.com/e/frokostseminar-utstyr-dine-ansatte-for-fremtidig-suksess-tickets-43973773741).  
- 
+ <br>
+Vil du høre mer om hva Get TDC har gjort?
+<br>
+Ta kontakt med Knut Skogvold på telefon 900 95 088 eller send en <br>
+<a href="kundeservice i pointtaken.no"  rel="nofollow" onclick="this.href='mailto:' + 'kundeservice' + '@' + 'pointtaken.no'">e-Post til kundeservice i Point Taken</a>
+
 
 
  

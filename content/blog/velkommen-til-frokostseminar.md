@@ -25,10 +25,7 @@ Denne morgenen vil du få demonstrert hvordan den digitale plattformen og muligh
 * <strong>NorgesGruppen</strong>, en av Norges største aktører innen dagligvare, har for flere deler av virksomheten innført nye digitale måter å jobbe på. Både i kontormiljø og for den delen av virksomheten som har ansvaret for distribusjon av matvarer rundt om i landet. De vil blant annet snakke om hvordan nye verktøy og et nytt avvikssystem har effektivisert virksomheten.  
 
 Bli inspirert, høst erfaringer fra andre og kom ett steg nærmere din virksomhets digitale transformasjon på vårt frokostseminar 26. april. Meld deg på under, så gleder vi oss til å se deg. Velkommen!
-<br />
-<br />
-<a class="btn btn-primary btn-full" href="https://www.eventbrite.com/e/frokostseminar-utstyr-dine-ansatte-for-fremtidig-suksess-tickets-43973773741" role="button">Meld deg på seminaret</a>
-<br />
+
 <br />
 
 #### Hvilke fordeler kan adopsjonen av digitale måter å jobbe på ha:
@@ -61,10 +58,7 @@ Bli inspirert, høst erfaringer fra andre og kom ett steg nærmere din virksomhe
 
 <strong>10:30</strong> – Avslutning, mingle med andre deltakere og eventuelle spørsmål til de som har holdt innlegg.
 <br />
-<br />
-<a class="btn btn-primary btn-full" href="https://www.eventbrite.com/e/frokostseminar-utstyr-dine-ansatte-for-fremtidig-suksess-tickets-43973773741" role="button">Meld deg på seminaret</a>
-<br />
-<br />
+Seminaret er avholdt.
 
 
 Point Taken leverer løsninger som skal fungere for kundene våre hver dag. Vårt fokus er å tilpasse leveransen etter de spesifikke behov enhver ny kunde har, og ikke minst sørge for at alle ansatte får den opplæringen i de nye verktøyene som de har behov for. Les mer om oss her.

@@ -9,7 +9,7 @@ banner: "img/dip-is-back.png"
 ---
 
 # The all mighty Document Information Panel (DIP) is back!
-
+<br>
 #### Great news every one, the DIP(Document Information Panel) is back, it is ready for use NOW! At Ignite, Microsoft announced that the DIP will be coming back in 2018. Today I was scrolling through the Office 365 Admin Message Center, and found some interesting news, and started to check it out with my colleagues, and VOILA!
 
 <img class="img-fluid mt-4 mb-4" src="/img/dip-is-back.png" /> 
@@ -24,7 +24,10 @@ You can find the SPP in the ribbon in Word. “View” > “Properties”. Insid
 
 More information can be found here. It says that is going to be released in the January 2018, but I guess you just have to have the right version.
 
-Please note: We tested this in SharePoint Online, SharePoint 2013 and SharePoint 2016. We only got it to work with SharePoint Online. Hope they fix this for the on-premises products as well.
+<br>
+<strong>Please note:</strong> In the December 2017 CU for SharePoint 2013 this feature became availible. I could not find anything in the release notes stating when it became availible for SharePoint 2016, but in one environment we checked when the SharePoint Properties pane was released it did not work. Now we are on Mars 2018 CU on the same environment, and it works!
+
+
 Happy SharePoint-Proproperties-Editing-in-Word!
 
 More information:

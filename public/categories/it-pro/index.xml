@@ -6,10 +6,21 @@
     <description>Recent content in It Pro on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jan 2018 20:22:48 +0100</lastBuildDate>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 03 May 2018 06:00:57 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/categories/it-pro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nye sikkerhetstjenester i Microsoft 365 Business</title>
+      <link>https://www.pointtaken.no/blog/2018/05/03/nye-sikkerhetstjenester-i-microsoft-365-business/</link>
+      <pubDate>Thu, 03 May 2018 06:00:57 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/blog/2018/05/03/nye-sikkerhetstjenester-i-microsoft-365-business/</guid>
+      <description>Denne uken ble Microsoft 365 Business-lisensene oppgradert med en rekke nye sikkerhetstjenester som kan bidra til at ditt selskaps enheter og dokumenter blir håndtert på en forsvarlig og sikker måte. Funksjonene som fra og med denne uken er inkludert i Microsoft 365 Business er følgende:
+ Azure Information Protection P1 Azure Rights Management Office 365 Advanced Threat Protection Exchange Online Archiving for Exchange Online Intune  Office 365 Advanced Threat Protection Advanced Threat Protection (ATP) hjelper bedriften din mot sofistikerte og avanserte phishing og ransomware-angrep designet for å kompromittere ansattes eller kunders informasjon.</description>
+    </item>
     
     <item>
       <title>Unngå fellene med migrering til skyen</title>

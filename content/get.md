@@ -29,6 +29,12 @@ Point Taken er med på det digitale løftet som gjøres, med å bistå teknisk m
 <p>Løsningene er med på å kutte kostander, bidra til en bedre og mer effektiv arbeidshverdag slik at de ansatte kan fokusere på å levere gode tjenester til sine kunder.</p>
 <p>Get TDC er en Norges første store virksomheter som benytter den nyeste versjonen av SharePoint, «SharePoint Modern».</p>
 <br>
+<br>
+<br>
+<br>
+    <a class="btn btn-primary btn-full" href="/contact/" role="button">Vil du vite mer? Kontakt oss!</a>
+<br>
+
 </div>
 </div>
 </div>

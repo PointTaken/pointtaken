@@ -24,6 +24,11 @@ BAHR er en høykompetansebedrift med bred og dyp erfaring fra et stort antall op
 Det nye erfaringsarkivet og det nye intranettet legger til rette for kompetansedeling på tvers av grupper, slik at kollektiv kunnskap kan utnyttes på en bedre måte. Advokatene kan samhandle og dele i sanntid, og det kan kommuniseres på tvers av kompetanseområder og prosjektgrupper. Den nye digitale løsningen, understøttet av en rekke funksjonelle forbedringer, gjør BAHRs advokater klare for en ny og effektivisert digital hverdag.</p>
 <br>
 <br>
+
+<br>
+    <a class="btn btn-primary btn-full" href="/contact/" role="button">Vil du vite mer? Kontakt oss!</a>
+<br>
+<br>
 </div>
 </div>
 </div>

@@ -40,7 +40,10 @@ Vil du høre mer om hva NorgesGruppen har gjort?
 <br>
 Ta kontakt med Knut Skogvold på telefon 900 95 088 eller send en <br>
 <a href="kundeservice i pointtaken.no"  rel="nofollow" onclick="this.href='mailto:' + 'kundeservice' + '@' + 'pointtaken.no'">e-Post til kundeservice i Point Taken</a>
+<br>
+<br>
 
- 
-
- 
+<br>
+    <a class="btn btn-primary btn-full" href="/contact/" role="button">Vil du vite mer? Kontakt oss!</a>
+<br>
+<br>

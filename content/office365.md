@@ -110,6 +110,9 @@ draft: false
             </table>          
             </div>
         </div>
+        <div class="col">
+                        <a class="btn btn-primary btn-full" href="/referanser/" role="button">Se hva våre kunder sier om Office 365</a><br><br>
+                    </div> 
     </div>
 </div>
 
@@ -143,7 +146,7 @@ draft: false
                     <li>Jeg trenger å lære mer om hvordan min bedrift kan bruke Office 365 på best mulig måte.</li>
                     </ul>
                     <div class="col">
-                        <a class="btn btn-primary btn-full" href="/contact/" role="button">Ta kontakt</a>
+                        <a class="btn btn-primary btn-full" href="/contact/" role="button">Vil du vite mer? Kontakt oss!</a>
                     </div>                    
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-4">

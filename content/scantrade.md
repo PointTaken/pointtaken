@@ -21,6 +21,13 @@ Før det nye intranettet kom på plass fant Scantrade det utfordrende å få sys
 Gjennom et godt samarbeid mellom Scantrade og Point Takens konsulenter, ble resultatet et moderne, responsivt og tilpasset intranett, som skal støtte opp om de ansattes digitale hverdag. Den tekniske arkitekturen har gjort det mulig å sette opp et årshjul som skiller de forskjellige avdelingene fra hverandre, samtidig som alle kan ha oversikt over hva som skjer. Løsningen kan brukes på alle enheter samtidig som IT-sikkerheten ivaretas. Med funksjonalitet for god rapportering, sikker IT-håndtering og samarbeid i sanntid har de ansatte fått en helt ny digital hverdag.</p>
 <br>
 <br>
+<br>
+
+<br>
+    <a class="btn btn-primary btn-full" href="/contact/" role="button">Vil du vite mer? Kontakt oss!</a>
+<br>
+<br>
+<br>
 </div>
 </div>
 </div>

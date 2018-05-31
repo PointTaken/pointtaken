@@ -56,10 +56,14 @@ draft: false
                 <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/scantrade-intranett.jpg" alt="Scantrade" /></div>
             </div>
         </div>
+<div class="col">
+<br>
+    <a class="btn btn-primary btn-full" href="/contact/" role="button">Vil du vite mer? Kontakt oss!</a>
+</div>      
     </div>
 </div>
 
-
+   
 <!-- Kunder -->
 <div class="container">
 <div class="row customers">

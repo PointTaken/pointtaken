@@ -11,7 +11,7 @@ draft: false
                 <h1>Samtykke til elektronisk kommunikasjon</h1>
             </div>
             <br><br>
-             <iframe src="http://analytics-eu.clickdimensions.com/pointtakenno-aaajs/pages/4f16l0gpeeipxganoirrlg.html" allowtransparency="true" width="100%" height="500px" type="text/html" frameborder="0" style="border:0"></iframe>
+             <iframe src="https://analytics-eu.clickdimensions.com/pointtakenno-aaajs/pages/4f16l0gpeeipxganoirrlg.html" allowtransparency="true" width="100%" height="500px" type="text/html" frameborder="0" style="border:0"></iframe>
             <br>
             <h3>Slik kontakter du oss</h3>
             <p>Telefon 2212 0365<br>

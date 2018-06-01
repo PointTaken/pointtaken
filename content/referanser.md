@@ -59,7 +59,9 @@ draft: false
 <div class="col">
 <br>
     <a class="btn btn-primary btn-full" href="/contact/" role="button">Vil du vite mer? Kontakt oss!</a>
-</div>      
+                        <br><br>
+                        <a class="btn btn-primary btn-full" href="/samtykke-nyhetsbrev/" role="button">Meld deg på vårt nyhetsbrev</a>
+</div>  
     </div>
 </div>
 

@@ -147,6 +147,10 @@ draft: false
                     </ul>
                     <div class="col">
                         <a class="btn btn-primary btn-full" href="/contact/" role="button">Vil du vite mer? Kontakt oss!</a>
+                    </div>    
+                    <br>
+                    <div class="col">
+                        <a class="btn btn-primary btn-full" href="/samtykke-nyhetsbrev/" role="button">Meld deg på vårt nyhetsbrev</a>
                     </div>                    
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-4">

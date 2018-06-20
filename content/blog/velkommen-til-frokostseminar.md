@@ -11,6 +11,7 @@ banner: "img/blog/seminar5.jpg"
 <img class="img-fluid" src="/img/blog/seminar1.jpg" />
 
 ## Start den digitale transformasjonen i dag - jobb smartere, mer effektivt og sikrere!
+<br><strong style="color:red; font-size:2em;">SEMINARET ER AVHOLDT</strong><br>
 
 <strong>Vi inviterer til gratis frokostseminar hos Microsoft Norge, sammen med NorgesGruppen, Get TDC og BAHR. Hør hvordan disse sterke, norske merkevarene har tatt i bruk digitale, skybaserte verktøy for mer effektive og fornøyde ansatte, og ikke minst gjort virksomhetene sine mer produktive og bedre rustet for fremtiden.</strong>
 
@@ -41,6 +42,7 @@ Bli inspirert, høst erfaringer fra andre og kom ett steg nærmere din virksomhe
 <img class="img-fluid" src="/img/blog/seminar3.jpg" />
 <br />
 <br />
+<br><strong style="color:red; font-size:2em;">SEMINARET ER AVHOLDT</strong><br>
 #### Program:
 <strong>08.00</strong> - Frokost.
 
@@ -58,7 +60,8 @@ Bli inspirert, høst erfaringer fra andre og kom ett steg nærmere din virksomhe
 
 <strong>10:30</strong> – Avslutning, mingle med andre deltakere og eventuelle spørsmål til de som har holdt innlegg.
 <br />
-Seminaret er avholdt.
+<br />
+<strong style="color:red; font-size:2em;">Seminaret er avholdt.</strong>
 
 
 Point Taken leverer løsninger som skal fungere for kundene våre hver dag. Vårt fokus er å tilpasse leveransen etter de spesifikke behov enhver ny kunde har, og ikke minst sørge for at alle ansatte får den opplæringen i de nye verktøyene som de har behov for. Les mer om oss her.

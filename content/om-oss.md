@@ -561,36 +561,6 @@ draft: false
 </div>
 <!--KJETIL Ø SLUTT-->
 
-<!--KRISITAN INFO-->
-<div class="modal fade bd-example-modal-lg kristian" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="row personmodal modal-content flex-row">
-            <button type="button" class="close col-12" data-dismiss="modal" aria-label="Close">
-                <span class="float-right" aria-hidden="true">&times;</span>
-            </button>        
-            <div class="col-sm-12 col-md-4">
-                <img class="img-fluid" src="../img/people/kristian.jpg" alt="Card image cap">
-                <h4 class="header-text text-center">Kristian</h4>
-            </div>
-            </br>
-            <div class="col-sm-12 col-md-8">
-            <strong>Kristian</strong> er en senior SharePoint- og .NET-utvikler. Han brenner for faget, og som fullstack fanger han opp den siste teknologien og løfter oss andre frem. Han er lynrask både som utvikler og som syklist i Norgeseliten. Kristian liker bratte bakker og krevende tekniske utfordringer.
-            </div>
-        </div>
-    </div>
-</div>
-<!--KRISTIAN BILDE-->
-<div class="col-sm-6 col-md-4 col-lg-4">
-    <div class="card personkort" data-toggle="modal" data-target=".kristian">
-        <img class="card-img-top img-profil" src="../img/people/kristian.jpg" alt="Card image cap">
-        <div class="card-body">
-            <h4 class="card-title text-center">Kristian</h4>
-            <p class="card-subtitle text-center">Seniorkonsulent SharePoint/.NET</p>
-        </div>
-    </div>
-</div>
-<!--KRISTIAN SLUTT-->
-
 <!--LUC INFO-->
 <div class="modal fade bd-example-modal-lg luc" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">

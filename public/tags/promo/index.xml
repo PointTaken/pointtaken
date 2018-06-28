@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 03 May 2018 06:00:57 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jun 2018 12:30:00 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/tags/promo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bli klar for GDPR før ferien med ClickDimensions</title>
+      <link>https://www.pointtaken.no/blog/2018/06/28/bli-klar-for-gdpr-for-ferien-med-clickdimensions/</link>
+      <pubDate>Thu, 28 Jun 2018 12:30:00 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/blog/2018/06/28/bli-klar-for-gdpr-for-ferien-med-clickdimensions/</guid>
+      <description>Tidlig i mai kom ClickDimensions ut med en oppdatering som heter 9.2.0 eller GDPR-oppdateringen. I dette innlegget vil jeg skrive litt om hvilke nye funksjoner i denne oppdateringen som hjelper deg med å følge GDPR-regelverket. Ikke hørt om GDPR –Datatilsynet skriver: «EUs forordning for personvern, The General Data Protection Regulation (GDPR), blir norsk lov i 2018. Det betyr at vi får nye regler for personvern i Norge. Det nye regelverket gir virksomheter nye plikter og enkeltpersoner nye rettigheter.</description>
+    </item>
     
     <item>
       <title>Nye sikkerhetstjenester i Microsoft 365 Business</title>

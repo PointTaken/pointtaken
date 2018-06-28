@@ -10,6 +10,8 @@ tags: ["promo"]
 
 
 **Tidlig i mai kom ClickDimensions ut med en oppdatering som heter 9.2.0 eller GDPR-oppdateringen. I dette innlegget vil jeg skrive litt om hvilke nye funksjoner i denne oppdateringen som hjelper deg med å følge GDPR-regelverket.** <br> <br>
+
+<img class="img-fluid" src="/img/blog/clickd/GDPR.png" /><br><br>
 Ikke hørt om GDPR? –Datatilsynet skriver: «EUs forordning for personvern, The General Data Protection Regulation (GDPR), blir norsk lov i 2018.  Det betyr at vi får nye regler for personvern i Norge. Det nye regelverket gir virksomheter nye plikter og enkeltpersoner nye rettigheter.» Les deres veileder. (https://www.datatilsynet.no/regelverk-og-skjema/veiledere/hva-betyr/) <br>
 
 **Påmeldingslister og sider for påmelding**<br>

@@ -441,6 +441,36 @@ draft: false
 </div>
 <!--JAN ARNE SLUTT-->
 
+<!--JEROEN INFO-->
+<div class="modal fade bd-example-modal-lg jeroen" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="row personmodal modal-content flex-row">
+            <button type="button" class="close col-12" data-dismiss="modal" aria-label="Close">
+                <span class="float-right" aria-hidden="true">&times;</span>
+            </button>        
+            <div class="col-sm-12 col-md-4">
+                <img class="img-fluid" src="../img/people/jeroen.jpg" alt="Card image cap">
+                <h4 class="header-text text-center">Jeroen</h4>
+            </div>
+            </br>
+            <div class="col-sm-12 col-md-8">
+            <strong>Jeroen</strong> er Senior Business Intelligence Consultant og har allerede opparbeidet seg internasjonal erfaring i avanserte organisasjoner. Med en Master i Systems Engineering i bunn, med betydelig tyngde i retning Business Intelligence, er han en viktig ressurs i våre leveranser knyttet til «Business Insights» gjennom Microsoft «Power verktøy». Han har et spesielt fokus på digital transformasjon av forretningsprosesser. Han har den sjeldne egenskapen i det å forstå alle nivåer knyttet til utvikling av komplekse og forretningskritiske analyser. For våre kunder er han en, ikke bare kompetent konsulent, men en meget hyggelig fyr også. 
+            </div>
+        </div>
+    </div>
+</div>
+<!--JEROEN BILDE-->
+<div class="col-sm-6 col-md-4 col-lg-4">
+    <div class="card personkort" data-toggle="modal" data-target=".jeroen">
+        <img class="card-img-top img-profil" src="../img/people/jeroen.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title text-center">Jeroen</h4>
+            <p class="card-subtitle text-center">Seniorkonsulent Office 365</p>
+        </div>
+    </div>
+</div>
+<!--JEROEN SLUTT-->
+
 <!--JULIAN INFO-->
 <div class="modal fade bd-example-modal-lg julian" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">

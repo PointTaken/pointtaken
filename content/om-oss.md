@@ -774,36 +774,6 @@ draft: false
 </div>
 <!--THOMAS SLUTT-->
 
-<!--WENCHE INFO-->
-<div class="modal fade bd-example-modal-lg wenche" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="row personmodal modal-content flex-row">
-            <button type="button" class="close col-12" data-dismiss="modal" aria-label="Close">
-                <span class="float-right" aria-hidden="true">&times;</span>
-            </button>        
-            <div class="col-sm-12 col-md-4">
-                <img class="img-fluid" src="../img/people/wenche.jpg" alt="Card image cap">
-                <h4 class="header-text text-center">Wenche</h4>
-            </div>
-            </br>
-            <div class="col-sm-12 col-md-8"> 
-             <strong>Wenche</strong> er en erfaren systemarkitekt og utvikler. Hun har mer enn 20 års erfaring innen IT-bransjen, både i Norge og internasjonalt. Hun er ekspert på SharePoint og Nintex både "On Prem" og online. Hun utvikler web parts, web services og apps.
-            </div>
-        </div>
-    </div>
-</div>
-<!--WENCHE BILDE-->
-<div class="col-sm-6 col-md-4 col-lg-4">
-    <div class="card personkort" data-toggle="modal" data-target=".wenche">
-        <img class="card-img-top img-profil" src="../img/people/wenche.jpg" alt="Card image cap">
-        <div class="card-body">
-            <h4 class="card-title text-center">Wenche</h4>
-            <p class="card-subtitle text-center">Seniorkonsulent SharePoint/Nintex</p>
-        </div>
-    </div>
-</div>
-<!--WENCHE SLUTT-->
-
 <!--ØYVIND V INFO-->
 <div class="modal fade bd-example-modal-lg oyvind-v" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">

@@ -454,7 +454,7 @@ draft: false
             </div>
             </br>
             <div class="col-sm-12 col-md-8">
-            <strong>Jeroen</strong> er Senior Business Intelligence Consultant og har allerede opparbeidet seg internasjonal erfaring i avanserte organisasjoner. Med en Master i Systems Engineering i bunn, med betydelig tyngde i retning Business Intelligence, er han en viktig ressurs i våre leveranser knyttet til «Business Insights» gjennom Microsoft «Power verktøy». Han har et spesielt fokus på digital transformasjon av forretningsprosesser. Han har den sjeldne egenskapen i det å forstå alle nivåer knyttet til utvikling av komplekse og forretningskritiske analyser. For våre kunder er han en, ikke bare kompetent konsulent, men en meget hyggelig fyr også. 
+            <strong>Jeroen</strong> er Senior Business Intelligence Consultant og har allerede opparbeidet seg internasjonal erfaring komplekse organisasjoner i flere land. Med en Master i Systems Engineering i bunn, med betydelig tyngde i retning Business Intelligence, er han en viktig ressurs i våre leveranser knyttet til «Business Insights» gjennom Microsoft «Power verktøy». Han har et spesielt fokus på digital transformasjon av forretningsprosesser. Han har den sjeldne egenskapen i det å forstå alle nivåer knyttet til utvikling av komplekse og forretningskritiske analyser. For våre kunder er han en, ikke bare kompetent konsulent, men en meget hyggelig fyr også. 
             </div>
         </div>
     </div>

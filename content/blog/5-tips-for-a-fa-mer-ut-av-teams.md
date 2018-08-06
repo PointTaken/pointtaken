@@ -20,7 +20,7 @@ Den største bekymringen vi møter på, er at det på sikt vil bli uoversiktlig 
 
 ## 2. Bruk søkefeltet på toppen av Teams 
 
-<img class="img-fluid mt-4 mb-4" src="/img/blog/5tipsteams/Sokebar.png" /> 
+<img class="img-fluid mt-4 mb-4" src="/img/blog/5tipsteams/Sokebar.PNG" /> 
 
 Teams er første Office 365-applikasjon ut som får søkefeltet i toppen av applikasjonen. Dette er en svært kraftig funksjon der du kan søke opp personer, samtaler, filer og til og med utføre kraftige kommandoer - svært enkelt. Det er bare å begynne å venne seg til plasseringen av søkefeltet, da sterke indikasjoner vil ha det til at det kommer til flere Office-applikasjoner i en nær fremtid.  
  

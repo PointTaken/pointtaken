@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 28 Jun 2018 12:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Aug 2018 12:36:57 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/tags/promo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to get started with Microsoft PowerApps and Flow</title>
+      <link>https://www.pointtaken.no/blog/2018/08/21/how-to-get-started-with-microsoft-powerapps-and-flow/</link>
+      <pubDate>Tue, 21 Aug 2018 12:36:57 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/blog/2018/08/21/how-to-get-started-with-microsoft-powerapps-and-flow/</guid>
+      <description>How to get started with Microsoft PowerApps and Flow Have you ever heard of Microsoft PowerApps or Flow? My experience is that over half of the Office 365 users who can access these applications (as part of their current subscription) are unaware of its existence. Unaware of the potential business value the apps that you build with these powerful tools can bring to their organization.
+At Point Taken we have helped several of our customers to take a “jumpstart” and focus on immediate benefits whit a limited investment.</description>
+    </item>
     
     <item>
       <title>Bli klar for GDPR før ferien med ClickDimensions</title>

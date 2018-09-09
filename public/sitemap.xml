@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.pointtaken.no/powerbi/</loc>
+    <lastmod>2018-09-09T21:48:27+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.pointtaken.no/blog/2018/08/21/how-to-get-started-with-microsoft-powerapps-and-flow/</loc>
     <lastmod>2018-08-21T12:36:57+01:00</lastmod>
   </url>
@@ -305,7 +310,7 @@
   
   <url>
     <loc>https://www.pointtaken.no/</loc>
-    <lastmod>2018-08-21T12:36:57+01:00</lastmod>
+    <lastmod>2018-09-09T21:48:27+02:00</lastmod>
     <priority>0</priority>
   </url>
   

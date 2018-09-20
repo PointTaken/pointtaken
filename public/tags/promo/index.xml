@@ -6,10 +6,21 @@
     <description>Recent content in Promo on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Aug 2018 12:36:57 +0100</lastBuildDate>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 20 Sep 2018 12:36:57 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/tags/promo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Frokostseminar PowerBI </title>
+      <link>https://www.pointtaken.no/blog/2018/09/20/powerbi-seminar/</link>
+      <pubDate>Thu, 20 Sep 2018 12:36:57 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/blog/2018/09/20/powerbi-seminar/</guid>
+      <description>POWER BI Frokostseminar 10.oktober -Hvordan forvandle dine data til verdifull informasjon? Ønsker du å lage flotte dashboards og rapporter i løpet av et øyeblikk av dataene dine? Med Microsoft Power BI får du det mest brukervennlige Business Intelligence verktøyet siden Excel. Med Power BI har Microsoft gjort det enda lettere for deg som bruker, å designe dine egne BI løsninger, dashboards og rapporter. 
+Meld deg på seminaret Power BI leveres som en service i Office 365 og gjør det enkelt for deg å ta det i bruk, du trenger ikke å installere løsningen, den er allerede tilgjengelig.</description>
+    </item>
     
     <item>
       <title>How to get started with Microsoft PowerApps and Flow</title>

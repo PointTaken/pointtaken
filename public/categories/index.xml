@@ -6,6 +6,7 @@
     <description>Recent content in Categories on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
     
 	<atom:link href="https://www.pointtaken.no/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -79,6 +80,15 @@
       <pubDate>Tue, 21 Aug 2018 12:36:57 +0100</pubDate>
       
       <guid>https://www.pointtaken.no/categories/powerapps-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powerbi</title>
+      <link>https://www.pointtaken.no/categories/powerbi/</link>
+      <pubDate>Thu, 20 Sep 2018 12:36:57 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/categories/powerbi/</guid>
       <description></description>
     </item>
     

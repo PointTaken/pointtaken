@@ -74,8 +74,17 @@ Med disse tipsene i bakhodet vil brukerne tilegne seg gode vaner og forhåpentli
 
 Det finnes naturligvis mange flere tips om Teams enn dette, og vi bistår kunder som innfører eller ønsker å innføre Teams på daglig basis. Point Taken var lanseringspartner på Teams ved lanseringen i Norge, og våre ansatte innehar en unik dyp kunnskap om produktet. 
 
-Ta kontakt med oss dersom du ønsker å vite mer om hvordan du gjør Teams til en suksess i din bedrift. 
+Vil du vite mer om hvordan du gjør Teams til en suksess i din bedrift?
+<br>
+Ta kontakt med Knut Skogvold på telefon 900 95 088 eller send en <br>
+<a href="kundeservice i pointtaken.no"  rel="nofollow" onclick="this.href='mailto:' + 'kundeservice' + '@' + 'pointtaken.no'">e-Post til kundeservice i Point Taken</a>
+<br>
+<br>
 
+<br>
+    <a class="btn btn-primary btn-full" href="/contact/" role="button">Vil du vite mer? Kontakt oss!</a>
+<br>
+<br>
 
  
  

@@ -1,7 +1,7 @@
 ---
 title: "5 tips for å få mer ut av Microsoft Teams"
-date: 2018-08-01T12:00:00+01:00
-draft: true
+date: 2018-09-19T12:00:00+01:00
+draft: false
 banner: "img/blog/plugin/FirstPlugin1.png"
 author: "Helge Smeby"
 categories: ["Teams"]

@@ -77,6 +77,7 @@ Det finnes naturligvis mange flere tips om Teams enn dette, og vi bistår kunder
 Vil du vite mer om hvordan du gjør Teams til en suksess i din bedrift?
 <br>
 Ta kontakt med Knut Skogvold på telefon 900 95 088 eller send en <br>
+ <img class="card-img-top img-profil img-round mx-auto" src="/img/people/knut-round.jpg" style="float:right;">
 <a href="kundeservice i pointtaken.no"  rel="nofollow" onclick="this.href='mailto:' + 'kundeservice' + '@' + 'pointtaken.no'">e-Post til kundeservice i Point Taken</a>
 <br>
 <br>

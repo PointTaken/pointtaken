@@ -14,13 +14,13 @@ id = "contact"
                 <p>Vi kan hjelpe deg! Send oss en beskjed i kontaktskjemaet vårt, eller ta en prat på chatten, eller ring oss så skal vi kunne svare på det aller meste.</p>
                 <p></p>
                 <p>Point Taken - Sentralbord/Support: 22 12 0365</p>
-                <p><a href="kundeservice i pointtaken.no"  rel="nofollow" onclick="this.href='mailto:' + 'kundeservice' + '@' + 'pointtaken.no'">E-Post til kundeservice i Point Taken</a></p>
+                <p><strong>E-POSTADRESSE:</strong> <a href="kundeservice i pointtaken.no"  rel="nofollow" onclick="this.href='mailto:' + 'kundeservice' + '@' + 'pointtaken.no'">E-Post til kundeservice i Point Taken</a></p>
             </div>    
             <div class="col-md-12 col-lg-6"></div>
         </div>
 </div>
 
-</br>
+<br>
 <div class="row">
 <div class="col-sm-6 col-md-4 col-lg-3">
     <div class="card personkort text-center no-hover">

@@ -7,13 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 20 Sep 2018 12:36:57 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 26 Sep 2018 12:36:57 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Frokostseminar PowerBI 10.oktober</title>
+      <title>Nyheter i Dynamics 365 for Talent i oktober</title>
+      <link>https://www.pointtaken.no/blog/2018/09/26/nyheter-i-dynamics-365-for-talent-i-oktober/</link>
+      <pubDate>Wed, 26 Sep 2018 12:36:57 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/blog/2018/09/26/nyheter-i-dynamics-365-for-talent-i-oktober/</guid>
+      <description>Nytt i Talent Høsten er over oss og snart er vi over i oktober, en måned hvor svært mange nyheter kommer fra Microsoft. I dette blogginnlegget har jeg fokusert på de nye funksjonene som kommer til Talent i oktober..
+Attract Attract er rekruteringsmodulen av Talent, denne er tett knyttet til LinkedIn og lar deg finne den rette personen med riktig kvalifikasjoner for jobben du har utlyst. I dette slippet av nyheter er det svært tydelig at fokuset hovedsakelig har vært på Attract, det er her de fleste nyhetene er kommet.</description>
+    </item>
+    
+    <item>
+      <title>Frokostseminar Power BI - 10.oktober</title>
       <link>https://www.pointtaken.no/blog/2018/09/20/powerbi-seminar/</link>
       <pubDate>Thu, 20 Sep 2018 12:36:57 +0100</pubDate>
       

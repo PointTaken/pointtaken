@@ -1,5 +1,5 @@
 ---
-title: "Frokostseminar PowerBI 10.oktober"
+title: "Frokostseminar Power BI - 10.oktober"
 date: 2018-09-20T12:36:57+01:00
 draft: false
 banner: "/img/blog/power-bi-seminar/power-bi-seminar1.jpg"

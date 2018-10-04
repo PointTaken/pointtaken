@@ -13,7 +13,10 @@ draft: false
             <p>Våre folk er spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365, Office365 og Nintex.</p>
             <p>Vi ligger hele tiden i forkant av utviklingen, slik at vi kan lage moderne og fremtidsrettede løsninger som hjelper våre kunder å jobbe smartere digitalt.</p>
             <p></p>
-            <p>Point Taken - Sentralbord/Support: 22 12 0365</p>
+            <p style="font-size:30px; font-weight:bold;">Point Taken - Sentralbord/Support:</p>
+            <p style="font-size:30px; font-weight:bold;"> 2212 0365</p>
+            <p style="font-size:20px; font-weight:bold;">E-POSTADRESSE:&nbsp;&nbsp;<a style="text-decoration:underline;" href="kundeservice i pointtaken.no"  rel="nofollow" onclick="this.href='mailto:' + 'kundeservice' + '@' + 'pointtaken.no'">E-Post til kundeservice i Point Taken</a></p>
+                <p>(Klikk på lenken for å sende oss en epost til oss)</p>
         </div>    
         <div class="col-md-12 col-lg-6"></div>
     </div>

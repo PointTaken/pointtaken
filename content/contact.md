@@ -51,7 +51,7 @@ id = "contact"
         <div class="card-body">
             <h4 class="card-title">Thorbjørn Værp</h4>
             <p class="card-subtitle mb-2">Regionleder Kristiansand</p>
-            <p class="card-text">Tlf: 90 58 36 65</p>
+            <p class="card-text"> </p>
         </div>
     </div>
 </div>

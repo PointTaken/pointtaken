@@ -2,7 +2,7 @@
 title: "Microsoft Skift lansert"
 date: 2019-02-22T12:36:57+01:00
 draft: false
-banner: "/img/blog/tallent.png"
+banner: "/img/blog/skift/skift1.png"
 author: "Thomas Sandsør"
 categories: ["Teams"]
 tags: ["promo"]

@@ -840,36 +840,6 @@ draft: false
 </div>
 <!--RUBEN SLUTT-->
 
-
-<!--RUNE R INFO-->
-<div class="modal fade bd-example-modal-lg rune-r" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-    <div class="modal-dialog modal-lg">
-        <div class="row personmodal modal-content flex-row">
-            <button type="button" class="close col-12" data-dismiss="modal" aria-label="Close">
-                <span class="float-right" aria-hidden="true">&times;</span>
-            </button>        
-            <div class="col-sm-12 col-md-4">
-                <img class="img-fluid" src="../img/people/rune-r.jpg" alt="Card image cap">
-                <h4 class="header-text text-center">Rune Riveland</h4>
-            </div>
-            <div class="col-sm-12 col-md-8">
-            <strong>Rune</strong>  er Business Intelligence Manager og vår godt likte Power Bi ekspert. Han leverer avanserte løsninger til våre største kunder. Med lidenskap for effektivitet og omfattende kunnskap i bruk av en rekke IT-verktøy, er han ofte foretrukket som kursinstruktør og / eller foredragsholder. Han er opptatt av å formidle kunnskap og har betydelig erfaring i skjæringspunktene mellom operasjonelle, økonomiske og teknologiske veikryss – for å finne den optimale formen for rapportering – i enhver organisasjon. Han utvikler av egne kurs, datamodeller og har en egen standard for implementering. Han er kjent for å ligge helt i front i relasjon til kunnskap om ny teknologi, ser raskt hvor dette kan passe inn eller ikke.»
-            </div>
-        </div>
-    </div>
-</div>
-<!--RUNE R BILDE-->
-<div class="col-sm-6 col-md-4 col-lg-4">
-    <div class="card personkort" data-toggle="modal" data-target=".rune-r">
-        <img class="card-img-top img-profil" src="../img/people/rune-r.jpg" alt="Card image cap">
-        <div class="card-body">
-            <h4 class="card-title text-center">Rune</h4>
-            <p class="card-subtitle text-center">Business Intelligence Manager</p>
-        </div>
-    </div>
-</div>
-<!--RUNE R SLUTT-->
-
 <!--TAYYAB INFO-->
 <div class="modal fade bd-example-modal-lg tayyab" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">

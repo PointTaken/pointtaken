@@ -10,6 +10,10 @@ draft: false
                 <h1>SharePoint</h1>
             </div>
             <p>Med SharePoint kan du dele og administrere innhold, kunnskap og programmer for å styrke teamarbeid. Det kan gjøres fra hvor som helst og når som helst uten at det går på bekostning av sikkerhet. Finn informasjon raskt, og samarbeid på en enkel måte på tvers av organisasjonen.</p>
+            <p>
+            Bli inspirert! Bygg fine og kraftfulle intranett med den standard byggeklosser i SharePoint. <br><br>
+            <a href="https://sharepointlookbook.azurewebsites.net/" target="_blank">Se eksempler på sider og hvordan den kan se ut.</a>
+            </p>
         </div>    
         <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/sp1.png" alt="SharePoint" /></div>
     </div>
@@ -33,6 +37,9 @@ draft: false
                         <h2>Intranett</h2>
                     </div>
                     <p>SharePoint styrker deling og samarbeid blant dine ansatte. Publiser dokumenter eller meldinger, eller del ressurser og nyheter med hele eller deler av organisasjonen. Bruk nettområder og portaler for å skape engasjement hos de ansatte, for å forenkle kommunikasjonen og øke den kollektive kunnskapen på tvers av organisasjonen.</p>
+                    <p>
+                    <a href="https://sharepointlookbook.azurewebsites.net/" target="_blank">Se eksempler på sider og hvordan den kan se ut.</a>
+                    </p>
                 </div>
             </div>
         </div>

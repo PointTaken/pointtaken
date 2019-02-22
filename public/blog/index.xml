@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 26 Sep 2018 12:36:57 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 22 Feb 2019 12:36:57 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Microsoft Skift lansert</title>
+      <link>https://www.pointtaken.no/blog/2019/02/22/microsoft-skift-lansert/</link>
+      <pubDate>Fri, 22 Feb 2019 12:36:57 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/blog/2019/02/22/microsoft-skift-lansert/</guid>
+      <description>Skiftarbeidere får nytt verktøy i Teams Microsoft hadde en periode et produkt som het StaffHUB, og dette bytter navn til Microsoft Skift og blir et produkt integrert i Teams. Nå kan du enkelt se oversikt over alle skift som skal bemannes og hvem som har blitt satt på jobben. Samhandling og dialog Det velkjent at mange skiftarbeidere kommuniserer via Facebook eller andre grupper for å organisere hvem som skal jobbe når.</description>
+    </item>
     
     <item>
       <title>Nyheter i Dynamics 365 for Talent i oktober</title>

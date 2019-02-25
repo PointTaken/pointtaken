@@ -39,7 +39,7 @@ Det beste av alt er at dette produktet er inkludert i alle Office planer som ink
 <br>
 
 
-Vil du vite mer om hvordan du Skift kan brukes i din organisasjon??
+Vil du vite mer om hvordan Skift kan brukes i din organisasjon??
 <br>
 Ta kontakt med Knut Skogvold på telefon 900 95 088 eller send en <br>
  <img class="card-img-top img-profil img-round mx-auto" src="/img/people/knut-round.jpg" style="float:right;">

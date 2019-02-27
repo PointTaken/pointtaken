@@ -66,7 +66,7 @@ Oppdatering eller kansellering av registrerte forespørsler vil være tilgjengel
 
 Så snart denne er ute på web er det klart for vårt første nyhetsbrev :D
 <br><br><br><br>
-Vil du vite mer om Dynamics 365??
+Vil du vite mer om Dynamics 365?
 <br><br>
 Ta kontakt med Knut Skogvold på telefon 900 95 088 eller send en <br>
  <img class="card-img-top img-profil img-round mx-auto" src="/img/people/knut-round.jpg" style="float:right;">

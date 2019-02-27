@@ -8,9 +8,9 @@ categories: ["Dynamics 365"]
 tags: ["promo"]
 ---
 
-### Skiftarbeidere får nytt verktøy i Teams
 
-**Dynamics 365 for Talent April '19 slipp - Generelt tilgjengelig**<br>
+
+### Dynamics 365 for Talent April '19 slipp - Generelt tilgjengelig  <br>
 
 To ganger per år har Microsoft et stort slipp av ny funksjonalitet til Dynamics 365, dette innlegget fokuserer på funksjonaliteten som vil være tilgjengelig for alle i april'19-slippet for Dynamics 365 for Talent.
 

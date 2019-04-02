@@ -58,7 +58,7 @@ draft: false
                     <div class="heading">
                         <h2>Data Sources</h2>
                     </div>
-                    <p>We should actually find data sources that we can not connect to, for extracting and organizing your business data.
+                    <p>We will find data sources that we can connect to, for extracting and organizing your business data.
 It is a paradox that a lot of the business data will never see "light of day" again after they have been registered in your systems. Registered business data is still in the dark, without the opportunity to provide you with important and crucial insight in your business.
 With our methods in place, we can extract all the numbers that until now have lived an "isolated and dark" existence.</p>
                 </div>

@@ -120,7 +120,7 @@ Every report we develop together tells a story. We make sure that story matches 
                     </div>
                     <p>Data is most powerful when shared with others. We export, publish, share and distibute your PowerBI data insights, the way you need it.</p>
                 </div>            
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/07_KB.png" alt="Navigator" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/07_DB.png" alt="Navigator" /></div>
             </div>
         </div>                                   
     </div>

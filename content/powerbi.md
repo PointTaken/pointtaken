@@ -11,6 +11,7 @@ draft: false
                 <h1>Power BI</h1>
             </div>
             <p>The only tool that brings together all insights - in one place - available in just a moment</p>
+            <p>Watch a demo at Microsoft Partner Showcase provided by Point Taken: <a href="https://powerbi.microsoft.com/en-us/partner-showcase/point-taken-as-restaurant-analytics/" target="_blank"> Watch video </a></p>
         </div>    
         <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/01_PowerBI.jpg" alt="Power BI" /></div>
     </div>
@@ -116,7 +117,7 @@ Every report we develop together tells a story. We make sure that story matches 
             <div class="row no-gutters">
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
-                        <h2>Publishing and Rapporting</h2>
+                        <h2>Publishing and Reporting</h2>
                     </div>
                     <p>Data is most powerful when shared with others. We export, publish, share and distibute your PowerBI data insights, the way you need it.</p>
                 </div>            
@@ -124,4 +125,4 @@ Every report we develop together tells a story. We make sure that story matches 
             </div>
         </div>                                   
     </div>
-</div>
+</div>git add-

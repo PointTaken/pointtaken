@@ -169,6 +169,36 @@ draft: false
 </div>
 <!--THORBJORN SLUTT-->
 
+<!--ANJA INFO-->
+<div class="modal fade bd-example-modal-lg anja" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="row personmodal modal-content flex-row">
+            <button type="button" class="close col-12" data-dismiss="modal" aria-label="Close">
+                <span class="float-right" aria-hidden="true">&times;</span>
+            </button>        
+            <div class="col-sm-12 col-md-4">
+                <img class="img-fluid" src="../img/people/anja.jpg" alt="Card image cap">
+                <h4 class="header-text text-center">Anja</h4>
+            </div>
+            <div class="col-sm-12 col-md-8">
+            Anja har jobbet på kundesiden med Office 365 og Nintex og har god forretningsforståelse. 
+            Anja er sertifisert Microsoft Service Adoption Specialist og kan hjelpe med endringsledelse så vel som teknisk implementasjon. Anja er friluftslivfantast og stortrives i fjellet, om hun ikke er på reise i Italia eller Sveits. 
+            </div>
+        </div>
+    </div>
+</div>
+<!--ANJA BILDE-->
+<div class="col-sm-6 col-md-4 col-lg-4">
+    <div class="card personkort" data-toggle="modal" data-target=".anja">
+        <img class="card-img-top img-profil" src="../img/people/anja.jpg" alt="Card image cap">
+        <div class="card-body">
+            <h4 class="card-title text-center">Anja</h4>
+            <p class="card-subtitle text-center">Konsulent Office 365/Nintex</p>
+        </div>
+    </div>
+</div>
+<!--ANJA SLUTT-->
+
 <!--ANDRE INFO-->
 <div class="modal fade bd-example-modal-lg andre" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
@@ -191,7 +221,7 @@ draft: false
     <div class="card personkort" data-toggle="modal" data-target=".andre">
         <img class="card-img-top img-profil" src="../img/people/andre.jpg" alt="Card image cap">
         <div class="card-body">
-            <h4 class="card-title text-center">Andre</h4>
+            <h4 class="card-title text-center">André</h4>
             <p class="card-subtitle text-center">Konsulent Office 365/Azure</p>
         </div>
     </div>

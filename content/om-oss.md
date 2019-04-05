@@ -11,6 +11,7 @@ draft: false
                 <h1>Vi er Norges ledende kompetansemiljø på digital samhandling</h1>
             </div>
             <p>Våre folk er spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365, Office365 og Nintex.</p>
+            <p>Vi utfører alt av rådgivning, konfigurasjon, utvikling, endringsledelse, prosjektledelse og opplæring.</p>
             <p>Vi ligger hele tiden i forkant av utviklingen, slik at vi kan lage moderne og fremtidsrettede løsninger som hjelper våre kunder å jobbe smartere digitalt.</p>
             <p></p>
             <p style="font-size:30px; font-weight:bold;">Point Taken - Sentralbord/Support:</p>
@@ -182,7 +183,7 @@ draft: false
             </div>
             <div class="col-sm-12 col-md-8">
             Anja har jobbet på kundesiden med Office 365 og Nintex og har god forretningsforståelse. 
-            Anja er sertifisert Microsoft Service Adoption Specialist og kan hjelpe med endringsledelse så vel som teknisk implementasjon. Anja er friluftslivfantast og stortrives i fjellet, om hun ikke er på reise i Italia eller Sveits. 
+            Anja er sertifisert Microsoft Service Adoption Specialist og kan hjelpe med endringsledelse så vel som teknisk implementasjon. Anja er friluftslivsfantast og stortrives i fjellet, om hun ikke er på reise i Italia eller Sveits. 
             </div>
         </div>
     </div>

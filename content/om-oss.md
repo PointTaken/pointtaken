@@ -10,7 +10,7 @@ draft: false
             <div class="heading">
                 <h1>Vi er Norges ledende kompetansemiljø på digital samhandling</h1>
             </div>
-            <p>Våre folk er spesialister på teknisk og strategisk rådgivning i Sharepoint, Dynamics365, Office365 og Nintex.</p>
+            <p>Våre folk er spesialister på teknisk og strategisk rådgivning i SharePoint, Dynamics365, Talent, Office365, PowerBI og Nintex.</p>
             <p>Vi utfører alt av rådgivning, konfigurasjon, utvikling, endringsledelse, prosjektledelse og opplæring.</p>
             <p>Vi ligger hele tiden i forkant av utviklingen, slik at vi kan lage moderne og fremtidsrettede løsninger som hjelper våre kunder å jobbe smartere digitalt.</p>
             <p></p>

@@ -10,7 +10,7 @@ tags: ["promo"]
 
 
 
-### Amsterdam <br> 
+### Amsterdam  - <br> 
 
  
  <img class="img-fluid mt-3 mb-3" src="/img/blog/power-summit-logo.png" /> 

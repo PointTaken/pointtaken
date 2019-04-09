@@ -10,7 +10,7 @@ tags: ["promo"]
 
 
 
-### London <br> 
+### London - <br> 
 
  
  <img class="img-fluid mt-3 mb-3" src="/img/PostBilde.jpg" /> 

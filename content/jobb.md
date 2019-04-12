@@ -82,6 +82,7 @@ draft: false
             <li>Gode forsikrings- og pensjonsordninger.</li>
             <li>Mulighet for deltagelse på store nasjonale og internasjonale konferanser.</li>
             <li>Mulighet for eierskap i selskapet.</li>
+            <li>Et aktivt og sosialt miljø som finner på mye gøy i og utenfor arbeidshverdagen</li>
             </ul>
             <p>Ønsker du å jobbe med landets flinkeste og triveligste kolleger? Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder.</p>
             <p>For spørsmål, ta gjerne kontakt med Rune Tangen på epost rt@pointtaken.no eller <br>mobil +47 92 60 00 59</p>
@@ -117,6 +118,7 @@ draft: false
             <li>Gode forsikrings- og pensjonsordninger.</li>
             <li>Mulighet for deltagelse på store nasjonale og internasjonale konferanser.</li>
             <li>Mulighet for eierskap i selskapet.</li>
+            <li>Et aktivt og sosialt miljø som finner på mye gøy i og utenfor arbeidshverdagen</li>
             </ul>
             <p>Ønsker du å jobbe med landets flinkeste og triveligste kolleger? Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder.</p>
             <p>For spørsmål, ta gjerne kontakt med Rune Tangen på epost rt@pointtaken.no eller <br> mobil +47 92 60 00 59</p>
@@ -152,6 +154,7 @@ draft: false
             <li>Gode forsikrings- og pensjonsordninger.</li>
             <li>Mulighet for deltagelse på store nasjonale og internasjonale konferanser.</li>
             <li>Mulighet for eierskap i selskapet.</li>
+            <li>Et aktivt og sosialt miljø som finner på mye gøy i og utenfor arbeidshverdagen</li>
             </ul>
             <p>Ønsker du å jobbe med landets flinkeste og triveligste kolleger? Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder.</p>
             <p>For spørsmål, ta gjerne kontakt med Rune Tangen på epost rt@pointtaken.no eller <br> mobil +47 92 60 00 59</p>
@@ -187,6 +190,7 @@ draft: false
             <li>Gode forsikrings- og pensjonsordninger.</li>
             <li>Mulighet for deltagelse på store nasjonale og internasjonale konferanser.</li>
             <li>Mulighet for eierskap i selskapet.</li>
+            <li>Et aktivt og sosialt miljø som finner på mye gøy i og utenfor arbeidshverdagen</li>
             </ul>
             <p>Ønsker du å jobbe med landets flinkeste og triveligste kolleger? Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder.</p>
             <p>For spørsmål, ta gjerne kontakt med Rune Tangen på epost rt@pointtaken.no eller <br> mobil +47 92 60 00 59</p>
@@ -229,6 +233,7 @@ draft: false
             <li>Gode forsikrings- og pensjonsordninger.</li>
             <li>Mulighet for deltagelse på store nasjonale og internasjonale konferanser.</li>
             <li>Mulighet for eierskap i selskapet.</li>
+            <li>Et aktivt og sosialt miljø som finner på mye gøy i og utenfor arbeidshverdagen</li>
             </ul>
             <p>Ønsker du å jobbe med landets flinkeste og triveligste kolleger? Point Taken setter vi våre ansatte først, og er sikre på at lykkelige medarbeidere fostrer et godt og effektivt arbeidsmiljø. Dette er verdiskapende, både for oss og for våre kunder.</p>
             <p>For spørsmål, ta gjerne kontakt med Thorbjørn Værp på epost tv@pointtaken.no eller mobil +47 905 83 665</p>

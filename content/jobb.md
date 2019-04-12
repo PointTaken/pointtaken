@@ -388,7 +388,7 @@ draft: false
         </div>
     </div>
     </div>
-    <div class="col-sm-12 col-md-4">
+    <!-- div class="col-sm-12 col-md-4">
     <div class="card personkort text-center">
         <img class="card-img-top img-profil img-round mx-auto" src="../img/people/thorbjorn-round.jpg" alt="Thorbjørn Værp">
         <div class="card-body">
@@ -397,7 +397,7 @@ draft: false
             <p class="card-text">Tlf: 90 58 36 65</p>
         </div>
     </div>
-    </div>
+    </div -->
 </div>
 </div>
 <!-- SOSIALE BILDER -->

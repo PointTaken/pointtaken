@@ -41,7 +41,7 @@ draft: false
             </div>
         </div>
          <div class="col-12">
-            <table class="table">
+            <table class="table" style="background-color:#ffffff;">
             <thead>
                 <tr>
                 <th scope="col">Lokasjon</th>
@@ -77,7 +77,7 @@ draft: false
             </table>
         </div>
         <div class="col-md-12 p-4 mt-4">
-            <p>Står ikke din jobb i listen? Mener du at den burde stått der? Ta kontakt så finner vi samme ut om du har rett.</p>
+            <p>Står ikke din jobb i listen? Mener du at den burde stått der? Ta kontakt så finner vi sammen ut om du har rett.</p>
             </div>
 <!-- STILLINGSBESKRIVELSER -->
 

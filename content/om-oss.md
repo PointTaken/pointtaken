@@ -164,7 +164,7 @@ draft: false
         <div class="card-body">
             <h4 class="card-title text-center">Thorbjørn Værp</h4>
             <p class="card-subtitle text-center">Regionsleder Kristiansand</p>
-            <!-- <p class="card-text text-center">Tlf: 90 58 36 65</p>  -->             
+            <p class="card-text text-center">Tlf: 90 58 36 65</p>        
         </div>
     </div>
 </div>
@@ -1000,11 +1000,7 @@ draft: false
                 <h2>Nova Consulting Group - flere spesialistselskaper</h2>
             </div>
 <p>     Point Taken er en del av <a href="https://www.novaconsultinggroup.no">Nova Consulting Group </a>- et konsern med fem spesialistselskaper som til sammen tilbyr alt innen digitale tjenester:
-Rådgivning, konsept/design, implementering og forvaltning.
-
-Vi har felles kontorer sentralt i Oslo, og har derfor en unik mulighet til å skreddersy tverrfaglige team til ethvert prosjekt. 
-
-De andre selskapene er <a href="https://www.epinova.no">Epinova</a>, <a href="https://www.novanet.no">Novanet</a>, <a href="http://www.novacare.no">Novacare</a> og <a href="https://www.northernbeat.no">Northern Beat.</a></p>     
+Rådgivning, konsept/design, implementering og forvaltning.  Vi har felles kontorer sentralt i Oslo, og har derfor en unik mulighet til å skreddersy tverrfaglige team til ethvert prosjekt.  <br> De andre selskapene er <a href="https://www.epinova.no">Epinova</a>, <a href="https://www.novanet.no">Novanet</a>, <a href="http://www.novacare.no">Novacare</a> og <a href="https://www.northernbeat.no">Northern Beat.</a></p>     
             </div>
         </div>
     </div>

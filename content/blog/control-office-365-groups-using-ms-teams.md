@@ -2,7 +2,7 @@
 title: "Getting better control over Office 365 groups when using MS Teams"
 date: 2019-05-21T00:00:57+01:00
 draft: false
-banner: "/img/blog/groupsteams/groupsteams.png"
+banner: "/img/blog/groupsteams/groupsteams0.png"
 author: "Luc Marolt - MCSA Office 365"
 categories: ["Office 365"]
 tags: ["promo"]

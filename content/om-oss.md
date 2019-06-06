@@ -1,5 +1,5 @@
 ---
-title: "Om Oss"
+title: "Point Taken - Om Oss"
 date: 2017-12-11T13:40:52+01:00
 draft: false
 ---
@@ -562,7 +562,7 @@ draft: false
                 <h4 class="header-text text-center">Julian</h4>
             </div>
             <div class="col-sm-12 col-md-8">
-            <strong>Julian</strong> er infrastruktur-ekspert med erfaring fra enterprise servermiljøer, Exchange, Azure, SharePoint og Office 365. Han er etterspurt av våre største kunder som han hjelper med nyetablering, oppgradering, migrering og omorganisering. Julian disponerer sin tid med stor presisjon, også på tur med familiens hund. 
+            <strong>Julian</strong> er infrastruktur-ekspert med høyt sikkerhetsfokus og har erfaring fra enterprise servermiljøer, Exchange, Azure, SharePoint og Office 365. Han er etterspurt av våre største kunder, som han hjelper med å ta i bruk skytjenester og utnytte alle tjenester til det fulle. Julian disponerer sin tid med stor presisjon, også på tur med familiens hund. <br> Julian har sin egen blogg, <a href="https://idefixwiki.no" target="_blank">Idefixwiki</a>, hvor det blogges om små dagligdagse IT Pro oppgaver.
             </div>
         </div>
     </div>
@@ -573,7 +573,7 @@ draft: false
         <img class="card-img-top img-profil" src="../img/people/julian.jpg" alt="Card image cap">
         <div class="card-body">
             <h4 class="card-title text-center">Julian</h4>
-            <p class="card-subtitle text-center">Seniorkonsulent Office 365</p>
+            <p class="card-subtitle text-center">Seniorkonsulent Office 365 / Sikkerhet</p>
         </div>
     </div>
 </div>

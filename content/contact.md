@@ -1,5 +1,5 @@
 +++
-title = "Kontakt"
+title = "Point Taken - Kontakt"
 id = "contact"
 +++
 

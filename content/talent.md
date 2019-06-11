@@ -12,14 +12,12 @@ draft: false
             <h3>En HR løsning for hele bedriften</h3>
             <p>Med Talent kan du tiltrekke, rekruttere og holde oversikt over eksisterende ansatte. Alt samlet på ett sted, slik at kandidaten føler seg ivaretatt fra første kontaktpunkt, til de eventuelt forlater.</p>
         </div>    
-        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/talent1.png" alt="Talent" /></div>
+        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/talent0.jpg" alt="Talent" /></div>
     </div>
 </div>
 
 <div class="container-fluid bg-white mb-4">
     <div class="row content-menu text-center mx-auto">
-        <!-- <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="#om">Om Teams</a></h4></div>
-        <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="">Hvorfor oss?</a></h4></div> -->
         <div class="col-sm-12 col-md-4"><h4 class="m-0"><a href="/contact/">Kontakt oss</a></h4></div>
     </div>
 </div>
@@ -52,7 +50,7 @@ draft: false
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/talent2.png" alt="Talent" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/talent5.png" alt="Talent" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Hvilke roller bruker talent?</h2>
@@ -74,8 +72,14 @@ draft: false
                     <div class="heading">
                         <h2>Hva kan Talent hjelpe meg med?</h2>
                     </div>
-                    <p>Med Attract har du en applikasjon som hjelper deg med å ansette riktige personer. Med koblingen til LinkedIn kan du bruke et av verdens største nettverk til å rekruttere. Sammen med kunstig intelligens, vil systemet over tid forstå mer av behovene til bedriften, og derfor bidra til mer relevante søkere.</p>
+                    <p>Med <strong>Attract</strong> har du en applikasjon som hjelper deg med å ansette riktige personer. Med koblingen til LinkedIn kan du bruke et av verdens største nettverk til å rekruttere. Sammen med kunstig intelligens, vil systemet over tid forstå mer av behovene til bedriften, og derfor bidra til mer relevante søkere.</p>
+                    <br>
+                    <div class="col-md-12"><img class="img-fluid" src="/img/talent1.png" alt="Talent" /></div>
+                    <br>
                     <p>Tiden fra man signerer med en ny ansatt og til den ansatte starter kan være lang og dette er en periode hvor flere kan ombestemme seg. Med Onboard kan du automatisere regelmessig dialog til din nyansatte mens de venter på å begynne. Du kan følge progresjonen underveis i prosessen, slik at du kan sikre at dine nyansatte forstår viktige elementer før den første arbeidsdagen. Det viktigste av alt er å ikke være stille i 3 mnd slik at den nye ansatte har muligheten til å revurdere.</p>
+                    <br>
+                    <div class="col-md-12"><img class="img-fluid" src="/img/talent2.png" alt="Talent" /></div>
+                    <br>
                     <p>I <strong>Core HR</strong> finner du all informasjon om ansatte og kan registrere og administrere relevant informasjon som:</p>
                     <ul>
                         <li>Kompetanse og kunnskap</li>
@@ -84,13 +88,16 @@ draft: false
                         <li>Justering av lønn</li>
                         <li>Medarbeidersamtaler</li>
                     </ul>
+                    <br>
+                    <div class="col-md-12"><img class="img-fluid" src="/img/talent3.png" alt="Talent" /></div>
+                    <br>
                     <p>Alle ansatte har en egen selvbetjeningsportal hvor de kan registrere og endre egen informasjon. Leder får også en portal med oversikt over ansatte de har ansvaret for og kan registrere informasjon om ansatte.</p>
                 </div>            
             </div>
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/talent3.png" alt="Talent" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/talent6.jpg" alt="Talent" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Hvor slutter  Talent?</h2>
@@ -108,30 +115,8 @@ draft: false
     </div>
 </div>
 
-<!-- <div class="container" id="referanse">
-    <div class="row">
-        <div class="col-sm-12 col-md-8 mx-auto mt-5 mb-5">
-            <blockquote class="blockquote text-center">
-            <p class="mb-0">Everything is awesome when you're part of a team!</p>
-            </blockquote>
-            </div>
-        </div>
-    </div>
-</div> -->
-
 <div class="container">
     <div class="row">
-        <!-- <div class="col-md-12 content-case mt-4 mb-4">
-            <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/CRM3.jpg" alt="CRM" /></div>
-                <div class="col-md-12 col-lg-6" style="padding:2rem">
-                    <div class="heading">
-                        <h2>Konsulenter med lang erfaring</h2>
-                    </div>
-                    <p>Malin er Dynamics 365 konsulent og solstråle fra nord. Hun har bakgrunn innen markedsføring, og har spesialisert seg på markedsføring og CRM som en kombinasjon. En strukturert konsulent som er opptatt at kundene forstår hva de skal få. Malin har sin egen Talent-blogg: <a href="https://malinsdynamics365fortalent.com/">Malin's talk about Dynamics 365 for Talent</a>.</p>
-                </div>
-            </div>
-        </div> -->
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
                 <div class="col-md-12 col-lg-9 p-4">

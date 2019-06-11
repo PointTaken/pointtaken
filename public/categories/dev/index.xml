@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dev on Point Taken</title>
+    <title>dev on Point Taken</title>
     <link>https://www.pointtaken.no/categories/dev/</link>
-    <description>Recent content in Dev on Point Taken</description>
+    <description>Recent content in dev on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
     <lastBuildDate>Sun, 25 Mar 2018 21:18:08 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/categories/dev/index.xml" rel="self" type="application/rss+xml" />

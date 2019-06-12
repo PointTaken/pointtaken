@@ -1,139 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Point Taken</title>
+    <title>Tags on Point Taken</title>
     <link>https://www.pointtaken.no/tags/</link>
-    <description>Recent content on Point Taken</description>
+    <description>Recent content in Tags on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:57 +0100</lastBuildDate>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 19 Sep 2018 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>5 tips for å få mer ut av Microsoft Teams</title>
-      <link>https://www.pointtaken.no/blog/2018/09/19/5-tips-for-a-fa-mer-ut-av-teams/</link>
+      <title></title>
+      <link>https://www.pointtaken.no/tags/</link>
       <pubDate>Wed, 19 Sep 2018 12:00:00 +0100</pubDate>
       
-      <guid>https://www.pointtaken.no/blog/2018/09/19/5-tips-for-a-fa-mer-ut-av-teams/</guid>
-      <description>Mange av våre kunder gjør i disse dager en stor satsning på Teams. Vi får derfor ofte spørsmål om vi har noen små enkle grep som kan tas for å forenkle innføringen, og dra mer nytte av produktet. Her følger derfor de 5 tipsene jeg vil trekke frem som mest nyttig i forhold til å bruke Teams mer effektivt:
-1. Bruk favoritter! Den største bekymringen vi møter på, er at det på sikt vil bli uoversiktlig med mange teams.</description>
+      <guid>https://www.pointtaken.no/tags/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Advokatfirma med smartere erfaringsdeling </title>
-      <link>https://www.pointtaken.no/blog/2018/04/23/advokatfirma-med-smartere-erfaringsdeling/</link>
-      <pubDate>Mon, 23 Apr 2018 17:01:49 +0200</pubDate>
+      <title>Promo</title>
+      <link>https://www.pointtaken.no/tags/promo/</link>
+      <pubDate>Tue, 21 May 2019 00:00:57 +0100</pubDate>
       
-      <guid>https://www.pointtaken.no/blog/2018/04/23/advokatfirma-med-smartere-erfaringsdeling/</guid>
-      <description>Også advokatbransjen kjenner på økt digitalt fokus og en tøffere konkurransesituasjon. Anerkjente BAHR ønsker å utnytte den interne kompetansen enklere og mer effektivt. Forretningsadvokatfirmaet BAHR er basert i Oslo og har i underkant av 200 medarbeidere. Firmaet ønsker å ligge i forkant av den teknologiske utviklingen som nå også påvirker advokatbransjen for fullt. Spesielt viktig for BAHR er kompetansedeling, og organisering av dette arbeidet på en mest mulig effektiv måte.</description>
+      <guid>https://www.pointtaken.no/tags/promo/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Enklere nettbasert samhandling for alle i Get TDC</title>
-      <link>https://www.pointtaken.no/blog/2018/04/17/enklere-nettbasert-samhandling-for-alle-i-get-tdc/</link>
-      <pubDate>Tue, 17 Apr 2018 12:01:49 +0200</pubDate>
+      <title>Teams</title>
+      <link>https://www.pointtaken.no/tags/teams/</link>
+      <pubDate>Wed, 19 Sep 2018 12:00:00 +0100</pubDate>
       
-      <guid>https://www.pointtaken.no/blog/2018/04/17/enklere-nettbasert-samhandling-for-alle-i-get-tdc/</guid>
-      <description>Med en nettbasert plattform og ny portal opplever Get TDC en forenklet arbeidshverdag for alle. Inkludert selgere og teknikere som jobber ute i felt. Get er for mange kjent som leverandør av TV og internett. Selskapet har en tradisjonsrik historie, og er også leverandør av større infrastrukturer knyttet til både veier, trafikk og kommunikasjonsløsninger for store norske virksomheter. IT-avdelingen i Get TDC har de siste årene tatt en del grep for å gjøre arbeidshverdagen enklere for alle, inkludert de mange ansatte som ikke har hverdagen sin inne på kontoret.</description>
+      <guid>https://www.pointtaken.no/tags/teams/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Norgesgruppen jobber bedre med moderne Filhåndtering</title>
-      <link>https://www.pointtaken.no/blog/2018/04/15/norgesgruppen-jobber-bedre-med-moderne-filhandtering/</link>
-      <pubDate>Sun, 15 Apr 2018 20:01:49 +0200</pubDate>
+      <title>Tips Og Triks</title>
+      <link>https://www.pointtaken.no/tags/tips-og-triks/</link>
+      <pubDate>Wed, 19 Sep 2018 12:00:00 +0100</pubDate>
       
-      <guid>https://www.pointtaken.no/blog/2018/04/15/norgesgruppen-jobber-bedre-med-moderne-filhandtering/</guid>
-      <description>En oppgradert versjon av SharePoint har gjort systemet mer brukervennlig. Flere selskaper i NorgesGruppen jobber nå bedre med nye smarte funksjoner og apper. Fotograf: Erik Norrud
-NorgesGruppen, en betydelig aktør innen dagligvarebransjen i Norge, består av mange selskaper som bidrar til å distribuere og selge matvarer over hele landet. Point Taken har siden 2014 bistått med prosjekter for å overføre filhåndtering internt fra Lotus Notes til SharePoint.
-NorgesGruppen er en spennende gruppering av selskaper, og siden jeg i 2014 kom inn som konsulent i NorgesGruppen Data har vi jobbet mye med å finne riktig måte å bruke SharePoint på for dem.</description>
-    </item>
-    
-    <item>
-      <title>Utstyr dine ansatte for fremtidig suksess – jobb smartere, mer effektivt og sikrere</title>
-      <link>https://www.pointtaken.no/blog/2018/03/27/utstyr-dine-ansatte-for-fremtidig-suksess/</link>
-      <pubDate>Tue, 27 Mar 2018 14:27:20 +0200</pubDate>
-      
-      <guid>https://www.pointtaken.no/blog/2018/03/27/utstyr-dine-ansatte-for-fremtidig-suksess/</guid>
-      <description>Den digitale transformasjonen øker stadig farten og driver frem nye arbeidsformer, noe mange bedriftsledere har vansker med å ta tak i. Utstyr dine ansatte for fremtidig suksess med verktøy som bedrer samhandlingen og øker effektiviteten. Lær mer på vårt frokostseminar 26. april.
-Både nye og mer erfarne arbeidstakere begynner å stille krav til hvordan de vil jobbe sammen. De ønsker mer fleksibilitet, enklere samhandling og muligheten til å være effektive selv om de ikke er tilstede på kontoret.</description>
-    </item>
-    
-    <item>
-      <title>Del 1 av 4: Hva er Nintex og hva kan Nintex tilby av teknologi?</title>
-      <link>https://www.pointtaken.no/blog/2018/03/27/del-1-av-4-hva-er-nintex/</link>
-      <pubDate>Tue, 27 Mar 2018 12:56:36 +0200</pubDate>
-      
-      <guid>https://www.pointtaken.no/blog/2018/03/27/del-1-av-4-hva-er-nintex/</guid>
-      <description>En mer intelligent og effektiv arbeidshverdag med Nintex – Bloggserie om Nintex Nintex er kanskje ukjent for mange, men de som kjenner til Nintex vil nok tenke på det som en tredjepart til SharePoint som et verktøy for arbeidsflyt og skjema. Dette har endret seg betraktelig den siste tiden. I denne bloggserien skal jeg fortelle deg om Nintex, hvilke muligheter som finnes, hvorfor du burde vurdere Nintex til nettopp din bedrift.</description>
-    </item>
-    
-    <item>
-      <title>Velkommen til frokostseminar!</title>
-      <link>https://www.pointtaken.no/blog/2018/03/27/velkommen-til-frokostseminar/</link>
-      <pubDate>Tue, 27 Mar 2018 10:06:56 +0200</pubDate>
-      
-      <guid>https://www.pointtaken.no/blog/2018/03/27/velkommen-til-frokostseminar/</guid>
-      <description>Start den digitale transformasjonen i dag - jobb smartere, mer effektivt og sikrere! 
-SEMINARET ER AVHOLDT
-Vi inviterer til gratis frokostseminar hos Microsoft Norge, sammen med NorgesGruppen, Get TDC og BAHR. Hør hvordan disse sterke, norske merkevarene har tatt i bruk digitale, skybaserte verktøy for mer effektive og fornøyde ansatte, og ikke minst gjort virksomhetene sine mer produktive og bedre rustet for fremtiden.
-Vi ser en digital transformasjon og endringer i samfunnet som har en fart det kan være vanskelig å følge med på.</description>
-    </item>
-    
-    <item>
-      <title>Opplev GDPR i praksis ved bruk av Microsoft Office 365</title>
-      <link>https://www.pointtaken.no/blog/2018/03/02/opplev-gdpr-i-praksis-ved-bruk-av-moderne-microsoft-office-365/</link>
-      <pubDate>Fri, 02 Mar 2018 09:10:36 +0100</pubDate>
-      
-      <guid>https://www.pointtaken.no/blog/2018/03/02/opplev-gdpr-i-praksis-ved-bruk-av-moderne-microsoft-office-365/</guid>
-      <description>Velkommen til gratis frokostseminar Onsdag 14.mars kl.08:15  Velkommen til gratis frokostseminar på Clarion Hotel Tyholmen, Arnedal Onsdag 14.mars kl.08:15.
-Registrering og nydelig mat fra kl.08:15 Foredrag kl.08.45 til 10:00
-Påmelding
-
-Ny personvernlovgivning trer i kraft mai 2018 og kravene for å behandle personopplysninger innskjerpes ytterligere.
-Dette seminaret handler om å beskytte samt overvåke GDPR-relaterte data i Office 365 og relaterte tjenester med praktiske eksempler.
-Vi demonstrerer metoder for å oppdage, klassifisere, beskytte og overvåke personopplysninger</description>
-    </item>
-    
-    <item>
-      <title>Microsoft-guru Vesa Juvonen gjestet Oslo</title>
-      <link>https://www.pointtaken.no/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/</link>
-      <pubDate>Fri, 09 Feb 2018 08:58:21 +0100</pubDate>
-      
-      <guid>https://www.pointtaken.no/blog/2018/02/09/microsoft-guru-vesa-juvonen-gjestet-oslo/</guid>
-      <description>7 februar var vi i Point Taken verter for det kvartalsvise møtet i Norwegian Office 365 Community. Norwegian Office 365 Community er et uavhengig fagmiljø for utviklere, IT pro, forretnings- og sluttbrukere der målet er å dele kunnskap på tvers av produktene. Foredragsholdere denne kvelden var Vesa Juvonen, Senior Program Manager i Microsoft som snakket om Microsofts roadmap for SharePoint, og Chris Givens, Microsoft MVP og sikkerhetsarkitekt i Soliance, som snakket om GDPR og Azure, fra et teknisk ståsted.</description>
-    </item>
-    
-    <item>
-      <title>Få fart på GDPR-forberedelsene dine!</title>
-      <link>https://www.pointtaken.no/blog/2018/02/08/jumpstart-gdpr-compliance/</link>
-      <pubDate>Thu, 08 Feb 2018 09:10:36 +0100</pubDate>
-      
-      <guid>https://www.pointtaken.no/blog/2018/02/08/jumpstart-gdpr-compliance/</guid>
-      <description>I januar hadde vi et fullsatt frokostseminar i Kristiansand, med fokus på bruk av Office 365 integrated Security og Compliance center. Vi viste deltakerne hvordan Office 365 gir dem mulighet for enkelt å finne, klassifisere, beholde eller fjerne persondata, for å møte de kommende kravene i GDPR som trer i kraft allerede 25.mai 2018.
-I tillegg demonstrerte vi hvordan man kan opprette regler som hindrer tap av sensitive data og bruke innebygde verktøy for å møte kravene i GDPR og eventuelle andre krav til beskyttelse av data.</description>
-    </item>
-    
-    <item>
-      <title>European Sharepoint Conference 2017</title>
-      <link>https://www.pointtaken.no/blog/2017/11/21/european-sharepoint-conference-2017/</link>
-      <pubDate>Tue, 21 Nov 2017 21:53:35 +0100</pubDate>
-      
-      <guid>https://www.pointtaken.no/blog/2017/11/21/european-sharepoint-conference-2017/</guid>
-      <description>European SharePoint Conference 2017 Hvert år samler European SharePoint Conference ESPC, SharePoint, Office 365 og Azure-eksperter fra hele verden på ett europeisk sted for den største konferansen i sitt slag. Siden starten i 2011 har ESPC vokst til over 2000 deltakere over fire dager. Årets arrangement gikk av stabelen i Dublin 13. til 16.November
-Her ser vi fire av Point Taken’s fem deltakere som besøker standen til Nintex, fra v.</description>
-    </item>
-    
-    <item>
-      <title>Point Taken Vokser Og Skal Ansette 10 Nye Spesialister</title>
-      <link>https://www.pointtaken.no/blog/2017/06/22/point-taken-vokser-og-skal-ansette-10-nye-spesialister/</link>
-      <pubDate>Thu, 22 Jun 2017 22:29:39 +0100</pubDate>
-      
-      <guid>https://www.pointtaken.no/blog/2017/06/22/point-taken-vokser-og-skal-ansette-10-nye-spesialister/</guid>
-      <description>Point Taken vokser og skal ansette 10 nye spesialister Point Taken har stor pågang av oppdrag og vi ser etter flere dyktige folk.
-Vi er opptatt av kvalitet og kompetanse og ser først og fremst etter seniorprofiler med erfaring fra Microsoft plattform. Du ønsker å jobbe i et spesialistselskap som investerer i sine ansatte.
-Vi ønsker oss 10 nye medarbeidere i tillegg til de 7 vi har ansatt allerede i år.</description>
+      <guid>https://www.pointtaken.no/tags/tips-og-triks/</guid>
+      <description></description>
     </item>
     
   </channel>

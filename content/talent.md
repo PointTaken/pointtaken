@@ -12,7 +12,7 @@ draft: false
             <h3>En HR løsning for hele bedriften</h3>
             <p>Med Talent kan du tiltrekke, rekruttere og holde oversikt over eksisterende ansatte. Alt samlet på ett sted, slik at kandidaten føler seg ivaretatt fra første kontaktpunkt, til de eventuelt forlater.</p>
         </div>    
-        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/talent0.jpg" alt="Talent" /></div>
+        <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/talent0.jpg" alt="Talent" style="margin-top:3em;"/></div>
     </div>
 </div>
 
@@ -50,7 +50,7 @@ draft: false
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/talent5.png" alt="Talent" /></div>
+                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/talent5.png" alt="Talent" style="margin-top:4em" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Hvilke roller bruker talent?</h2>
@@ -97,7 +97,7 @@ draft: false
         </div>
         <div class="col-md-12 content-case mt-4 mb-4">
             <div class="row no-gutters">
-                <div class="col-md-12 col-lg-6"><img class="img-fluid" src="/img/talent6.jpg" alt="Talent" /></div>
+                <div class="col-md-12 col-lg-6"><img style="margin-top:4em" class="img-fluid" src="/img/talent6.jpg" alt="Talent" /></div>
                 <div class="col-md-12 col-lg-6 p-4">
                     <div class="heading">
                         <h2>Hvor slutter  Talent?</h2>

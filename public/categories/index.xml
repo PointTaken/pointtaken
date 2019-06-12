@@ -6,35 +6,17 @@
     <description>Recent content in Categories on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 00:00:57 +0100</lastBuildDate>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
     
 	<atom:link href="https://www.pointtaken.no/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Office 365</title>
-      <link>https://www.pointtaken.no/categories/office-365/</link>
-      <pubDate>Tue, 21 May 2019 00:00:57 +0100</pubDate>
+      <title>Dev</title>
+      <link>https://www.pointtaken.no/categories/dev/</link>
+      <pubDate>Sun, 25 Mar 2018 21:18:08 +0100</pubDate>
       
-      <guid>https://www.pointtaken.no/categories/office-365/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power Platform</title>
-      <link>https://www.pointtaken.no/categories/power-platform/</link>
-      <pubDate>Thu, 11 Apr 2019 00:00:57 +0100</pubDate>
-      
-      <guid>https://www.pointtaken.no/categories/power-platform/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nintex</title>
-      <link>https://www.pointtaken.no/categories/nintex/</link>
-      <pubDate>Fri, 15 Mar 2019 12:36:57 +0100</pubDate>
-      
-      <guid>https://www.pointtaken.no/categories/nintex/</guid>
+      <guid>https://www.pointtaken.no/categories/dev/</guid>
       <description></description>
     </item>
     
@@ -48,52 +30,7 @@
     </item>
     
     <item>
-      <title>Teams</title>
-      <link>https://www.pointtaken.no/categories/teams/</link>
-      <pubDate>Fri, 22 Feb 2019 12:36:57 +0100</pubDate>
-      
-      <guid>https://www.pointtaken.no/categories/teams/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PowerBI</title>
-      <link>https://www.pointtaken.no/categories/powerbi/</link>
-      <pubDate>Tue, 18 Sep 2018 12:36:57 +0100</pubDate>
-      
-      <guid>https://www.pointtaken.no/categories/powerbi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PowerApps Flow</title>
-      <link>https://www.pointtaken.no/categories/powerapps-flow/</link>
-      <pubDate>Tue, 21 Aug 2018 12:36:57 +0100</pubDate>
-      
-      <guid>https://www.pointtaken.no/categories/powerapps-flow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IT Pro</title>
-      <link>https://www.pointtaken.no/categories/it-pro/</link>
-      <pubDate>Thu, 03 May 2018 06:00:57 +0100</pubDate>
-      
-      <guid>https://www.pointtaken.no/categories/it-pro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dev</title>
-      <link>https://www.pointtaken.no/categories/dev/</link>
-      <pubDate>Sun, 25 Mar 2018 21:18:08 +0100</pubDate>
-      
-      <guid>https://www.pointtaken.no/categories/dev/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GDPR</title>
+      <title>Gdpr</title>
       <link>https://www.pointtaken.no/categories/gdpr/</link>
       <pubDate>Fri, 02 Mar 2018 09:10:36 +0100</pubDate>
       
@@ -102,20 +39,29 @@
     </item>
     
     <item>
-      <title>sosialt</title>
-      <link>https://www.pointtaken.no/categories/sosialt/</link>
-      <pubDate>Fri, 09 Feb 2018 08:58:21 +0100</pubDate>
+      <title>It Pro</title>
+      <link>https://www.pointtaken.no/categories/it-pro/</link>
+      <pubDate>Thu, 03 May 2018 06:00:57 +0100</pubDate>
       
-      <guid>https://www.pointtaken.no/categories/sosialt/</guid>
+      <guid>https://www.pointtaken.no/categories/it-pro/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SharePoint</title>
-      <link>https://www.pointtaken.no/categories/sharepoint/</link>
-      <pubDate>Tue, 21 Nov 2017 21:53:35 +0100</pubDate>
+      <title>Nintex</title>
+      <link>https://www.pointtaken.no/categories/nintex/</link>
+      <pubDate>Fri, 15 Mar 2019 12:36:57 +0100</pubDate>
       
-      <guid>https://www.pointtaken.no/categories/sharepoint/</guid>
+      <guid>https://www.pointtaken.no/categories/nintex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Office 365</title>
+      <link>https://www.pointtaken.no/categories/office-365/</link>
+      <pubDate>Tue, 21 May 2019 00:00:57 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/categories/office-365/</guid>
       <description></description>
     </item>
     
@@ -125,6 +71,60 @@
       <pubDate>Thu, 22 Jun 2017 22:29:39 +0100</pubDate>
       
       <guid>https://www.pointtaken.no/categories/point-taken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Platform</title>
+      <link>https://www.pointtaken.no/categories/power-platform/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:57 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/categories/power-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powerapps Flow</title>
+      <link>https://www.pointtaken.no/categories/powerapps-flow/</link>
+      <pubDate>Tue, 21 Aug 2018 12:36:57 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/categories/powerapps-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powerbi</title>
+      <link>https://www.pointtaken.no/categories/powerbi/</link>
+      <pubDate>Tue, 18 Sep 2018 12:36:57 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/categories/powerbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharepoint</title>
+      <link>https://www.pointtaken.no/categories/sharepoint/</link>
+      <pubDate>Tue, 21 Nov 2017 21:53:35 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/categories/sharepoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sosialt</title>
+      <link>https://www.pointtaken.no/categories/sosialt/</link>
+      <pubDate>Fri, 09 Feb 2018 08:58:21 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/categories/sosialt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teams</title>
+      <link>https://www.pointtaken.no/categories/teams/</link>
+      <pubDate>Fri, 22 Feb 2019 12:36:57 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/categories/teams/</guid>
       <description></description>
     </item>
     

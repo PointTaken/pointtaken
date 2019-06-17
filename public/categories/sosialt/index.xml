@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sosialt on Point Taken</title>
+    <title>Sosialt on Point Taken</title>
     <link>https://www.pointtaken.no/categories/sosialt/</link>
-    <description>Recent content in sosialt on Point Taken</description>
+    <description>Recent content in Sosialt on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
     <lastBuildDate>Fri, 09 Feb 2018 08:58:21 +0100</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/categories/sosialt/index.xml" rel="self" type="application/rss+xml" />

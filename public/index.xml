@@ -6,6 +6,7 @@
     <description>Recent content on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
     <lastBuildDate>Mon, 17 Jun 2019 09:26:12 +0200</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/index.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +20,16 @@
       <guid>https://www.pointtaken.no/analytics/</guid>
       <description>Power BI  Power BI samler all innsikt - På ett sted - Tilgjengelig på et øyeblikk. Se denne demoen på &#34;Microsoft Partner Showcase&#34; opprettet av Point Taken: Se videoen 
     Kontakt oss   Hva POINT TAKEN kan hjelpe deg med MED POWER BI SKAPER VI MAGI...   Utvikle og beskrive en god driftsmodell for Power BI for rapportering i din virksomhet Kartlegge tilgjengelige datakilder, både interne og eksterne Beskrive mulighetene med tilgjengelige data i din virkshomhet, &#34;</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Intune</title>
+      <link>https://www.pointtaken.no/blog/2019/06/17/microsoft-intune/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:57 +0100</pubDate>
+      
+      <guid>https://www.pointtaken.no/blog/2019/06/17/microsoft-intune/</guid>
+      <description>-  Når vi snakker om skyen er «Device management» for mange et &#34;glemt&#34; kapittel, i alle fall for små og mellomstore bedrifter i Norge. Device management i skyen ble tidligere omtalt som MDM (Mobile device management), og mange tenkte nok at det bare gjaldt for Mobiler og nettbrett, - men tiden har endret seg og MDM omfavner nå PC og Mac`er også!
+ Microsoft sin Intune-løsning har støtte for både Windows, MacOS, Android og iOS pr.</description>
     </item>
     
     <item>

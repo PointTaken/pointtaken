@@ -1,5 +1,6 @@
 ---
 weight: 1
 name: sharepoint
+url: sharepoint
 icon: img/icons/logosharepoint.svg
 description: Sikker samhandling om dokumenter, data, nyheter og ressurser. 

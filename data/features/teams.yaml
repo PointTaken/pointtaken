@@ -1,5 +1,6 @@
 ---
 weight: 5
 name: teams
+url: teams
 icon: img/icons/logoteams.svg
 description: Teams bringer samhandling ut til hver medarbeider på pc, nettbrett og mobil.

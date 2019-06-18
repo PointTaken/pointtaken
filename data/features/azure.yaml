@@ -1,5 +1,6 @@
 ---
 weight: 6
 name: azure
+url: azure
 icon: img/icons/logoazure.svg
 description: Alt fra enkelttjenester til hele servermiljøer i skyen sikkert og tilgjengelig.

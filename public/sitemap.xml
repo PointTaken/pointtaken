@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.pointtaken.no/powerplatform/</loc>
+    <lastmod>2019-06-26T11:38:48+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.pointtaken.no/analytics/</loc>
     <lastmod>2019-06-17T09:26:12+02:00</lastmod>
   </url>
@@ -361,7 +366,7 @@
   
   <url>
     <loc>https://www.pointtaken.no/</loc>
-    <lastmod>2019-06-17T09:26:12+02:00</lastmod>
+    <lastmod>2019-06-26T11:38:48+01:00</lastmod>
     <priority>0</priority>
   </url>
   

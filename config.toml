@@ -135,7 +135,9 @@ paginate = 10
 [params.features]
     enable = true
     title = "Microsoft FastTrack Partner i Norge"
-    subtitle = "Vi er spesialister på teknisk og strategisk rådgivning i alt din bedrift trenger for å kunne jobbe smartere, sikrere og mer effektivt."
+    linktitle = "Trykk her for mer info"
+    titleurl = "/kampanje/fasttrack/fast-track-point-taken.pdf"
+    subtitle = "Vi er spesialister påhgu teknisk og strategisk rådgivning i alt din bedrift trenger for å kunne jobbe smartere, sikrere og mer effektivt."
     # All features are defined in their own files. You can find example items
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.

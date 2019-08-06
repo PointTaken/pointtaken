@@ -6,11 +6,22 @@
     <description>Recent content in Blogs on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 17 Jun 2019 00:00:57 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 15:20:02 +0200</lastBuildDate>
     
 	<atom:link href="https://www.pointtaken.no/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MS Inspire og nyheter i Teams</title>
+      <link>https://www.pointtaken.no/blog/2019/08/06/ms-inspire-nyhter-teams/</link>
+      <pubDate>Tue, 06 Aug 2019 15:20:02 +0200</pubDate>
+      
+      <guid>https://www.pointtaken.no/blog/2019/08/06/ms-inspire-nyhter-teams/</guid>
+      <description>Microsoft Inspire er den største konferansen for Microsoft partnere. Det årlige arrangementet, fant sted i Las Vegas 14. - 18. juli, og samlet partnere fra hele verden.
+Microsoft presenterte flere nyheter som gjør det bedre og enklere for Partnere å utvikle raskere og tryggere løsninger for kundene.
+Noen bullets fra konferansen:
+ Intelligent sky for alle AI i alle plattformer, store investering fra Microsoft allerede, resultater presentert i flere usecaser hos kunder AI ikke bare et buzzword lengre, kan løse mange samfunnsutfordringer AI Azure og AI i Microsoft 365, mye utvikling Nye og bedre partnerprogram, verktøy og plattformer, for å muliggjøre raskere utrullinger til kunder Virtuelle og mixed reality, sammensatt med AI og språk Power Apps og App’er inn i Microsoft 365 Marketplace og fokus på å lage og dele apper Fokus på bransjeløsninger i Apper og deling av disse Teams utvikling og potensiale med integrert forretningsprosesser Brukeradopsjon – stort fokus på å øke bruk Og mye mer…  Azure Executive i Microsoft, Julia White, kunne ved bruk av AI Azure og Hololens 2, fremføre en presentasjon med hologram, en utgave av seg selv, som ser ut og høres ut som henne, og snakke flytende japansk, uten å kunne dette selv.</description>
+    </item>
     
     <item>
       <title>Microsoft Intune</title>

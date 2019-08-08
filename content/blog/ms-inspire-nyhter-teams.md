@@ -22,7 +22,8 @@ Noen bullets fra konferansen:
 * AI Azure og AI i Microsoft 365, mye utvikling 
 * Nye og bedre partnerprogram, verktøy og plattformer, for å muliggjøre raskere utrullinger til kunder
 * Virtuelle og mixed reality, sammensatt med AI og språk
-* Power Apps og App’er inn i Microsoft 365 
+* Power Platform
+* Power Apps og apper inn i Microsoft 365 
 * Marketplace og fokus på å lage og dele apper
 * Fokus på bransjeløsninger i Apper og deling av disse
 * Teams utvikling og potensiale med integrert forretningsprosesser
@@ -31,7 +32,7 @@ Noen bullets fra konferansen:
 
 Azure Executive i Microsoft, Julia White, kunne ved bruk av AI Azure og Hololens 2, fremføre en presentasjon med hologram, en utgave av seg selv, som ser ut og høres ut som henne, og  snakke flytende japansk, uten å kunne dette selv. Denne presentasjonen ga mange gåsehud, du kan se den her: https://www.youtube.com/watch?v=auJJrHgG9Mc
 
-For Point Taken, som har son spisskompetanse innen Dynamics 365 og Office 365, så var det gledelig å høre at Microsoft satser stort på Power Platform og Apps, samt Teams, og at dette var noen av høydepunkter til Microsoft CEO Satya Nadella i hans Keynote.
+For Point Taken, som har spisskompetanse innen Dynamics 365 og Office 365, så var det gledelig å høre at Microsoft satser stort på Power Platform og Apps, samt Teams, og at dette var noen av høydepunkter til Microsoft CEO Satya Nadella i hans Keynote.
 
 <img class="img-fluid mt-3 mb-3" src="/img/blog/inspire-2.jpg" /> 
   
@@ -52,7 +53,7 @@ Moderering på kanaler gjør det mulig for teameiere å utpeke en eller flere mo
 
 Kryss-melding funksjon gjør det mulig å legge ut en og samme melding i flere kanaler
 
-Prioritet på varslinger i Chat, varlser mottakere, man kan feks velge «Viktig!» og det ligger et tidsintervall med varslinger hver 2.minutt i 20 minutter, inntil eldingen er besvart, både mobil og pc.
+Prioritet på varslinger i Chat, varlser mottakere, man kan feks velge "Haster!" og det ligger et tidsintervall med varslinger hver 2.minutt i 20 minutter, inntil eldingen er besvart, både mobil og pc.
 
 Nyheten om at Private Channel (Private kanaler) nå endelig ligger i Roadmappen for utrulling allerede i august/september. Dette har vært svært etterspurt lenge, da det så langt ikke har vært mulig å skjerme en kanal for utvalgte brukere. Målet med Teams er at man skal ha åpenhet og dele mest mulig, men de aller fleste organisasjoner har behov for å skjerme enkelte data og områder. Nå vil det bli mulig å ha offentlige (åpne Teams), men kunne ha kanaler innenfor ett Team som man kan skjerme for enkelte brukere.
 
